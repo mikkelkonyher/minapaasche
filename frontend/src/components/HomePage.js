@@ -105,7 +105,7 @@ const HomePage = () => {
         <div className="container-artworld">
           <div className="text-center">
             <p className="caption-text text-gray-400">
-              © 2024 {artistInfo.name}. All rights reserved.
+              © {new Date().getFullYear()} {artistInfo.name}. All rights reserved.
             </p>
             <div className="social-links mt-6">
               <a 
