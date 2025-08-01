@@ -33,23 +33,99 @@ export const projectCategories = [
 export const projects = [
   // Installations
   {
-    id: "light-spaces",
-    title: "Light Spaces",
+    id: "installation-1",
+    title: "Echo Chamber",
     category: "installations",
-    year: "2023",
-    medium: "Mixed media installation",
-    description: "An immersive installation exploring how light shapes our perception of space and time.",
-    coverImage: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=800&h=600&fit=crop&crop=center",
+    year: "2022",
+    medium: "Sound installation",
+    description: "A space where echoes and ambient sounds create an immersive auditory experience.",
+    coverImage: "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=800&h=600&fit=crop&crop=center",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=1200&h=800&fit=crop&crop=center",
-        title: "Installation View 1",
-        description: "Gallery Norsk, Oslo 2023"
-      },
+        url: "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=1200&h=800&fit=crop&crop=center",
+        title: "Echo Chamber Interior",
+        description: "Surround sound setup"
+      }
+    ]
+  },
+  {
+    id: "installation-2",
+    title: "Glass Horizons",
+    category: "installations",
+    year: "2021",
+    medium: "Glass and light installation",
+    description: "Refractions and reflections using glass panels and colored lights.",
+    coverImage: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop&crop=center",
+    images: [
       {
-        url: "https://images.unsplash.com/photo-1571115764595-644a1f56a55c?w=1200&h=800&fit=crop&crop=center",
-        title: "Detail: Light Projection",
-        description: "LED and fiber optic installation"
+        url: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=1200&h=800&fit=crop&crop=center",
+        title: "Refraction Detail",
+        description: "Colored glass panels"
+      }
+    ]
+  },
+  {
+    id: "installation-3",
+    title: "Forest of Light",
+    category: "installations",
+    year: "2020",
+    medium: "LED installation",
+    description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+    coverImage: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop&crop=center",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
+        title: "LED Forest",
+        description: "Immersive light experience"
+      }
+    ]
+  },
+  {
+    id: "installation-4",
+    title: "Mirror Maze",
+    category: "installations",
+    year: "2019",
+    medium: "Mirrors and architecture",
+    description: "A labyrinth of mirrors challenging perception and orientation.",
+    coverImage: "https://images.unsplash.com/photo-1465101178521-c1a4c8a0f0a0?w=800&h=600&fit=crop&crop=center",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1465101178521-c1a4c8a0f0a0?w=1200&h=800&fit=crop&crop=center",
+        title: "Maze Entrance",
+        description: "Reflective surfaces"
+      }
+    ]
+  },
+  {
+    id: "installation-5",
+    title: "Water Memory",
+    category: "installations",
+    year: "2018",
+    medium: "Interactive water installation",
+    description: "Visitors interact with water surfaces that respond to movement and sound.",
+    coverImage: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop&crop=center",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&h=800&fit=crop&crop=center",
+        title: "Water Surface",
+        description: "Interactive water display"
+      }
+    ]
+  },
+
+  {
+    id: "installation-6",
+    title: "Shadow Play",
+    category: "installations",
+    year: "2017",
+    medium: "Light and shadow installation",
+    description: "An interactive space where visitors manipulate light sources to create evolving shadow patterns.",
+    coverImage: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800&h=600&fit=crop&crop=center",
+    images: [
+      {
+        url: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&h=800&fit=crop&crop=center",
+        title: "Shadow Patterns",
+        description: "Visitors interacting with light"
       }
     ]
   },
