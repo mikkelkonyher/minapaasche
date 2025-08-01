@@ -39,10 +39,10 @@ export const projects = [
     year: "2022",
     medium: "Sound installation",
     description: "A space where echoes and ambient sounds create an immersive auditory experience.",
-    coverImage: "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=800&h=600&fit=crop&crop=center",
+    coverImage: "https://static.wixstatic.com/media/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg/v1/fill/w_2814,h_1583,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1503676382389-4809596d5290?w=1200&h=800&fit=crop&crop=center",
+        url: "https://static.wixstatic.com/media/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg/v1/fill/w_2814,h_1583,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg",
         title: "Echo Chamber Interior",
         description: "Surround sound setup"
       }
