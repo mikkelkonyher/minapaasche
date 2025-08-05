@@ -1,9 +1,12 @@
-import React from 'react';
+
 import { Link } from 'react-router-dom';
 import { artistInfo, projectCategories, projects } from '../mock';
 import '../styles/artworld.css';
+import React, { useState } from 'react';
 
 const HomePage = () => {
+
+  const [menuOpen, setMenuOpen] = useState(false);
   // Group projects by category
   const projectsByCategory = projectCategories.map(category => ({
     ...category,
@@ -15,15 +18,34 @@ const HomePage = () => {
       {/* Header */}
       <header className="section-spacing">
         <div className="container-artworld">
-          <nav className="flex justify-between items-center">
+          <nav className="flex justify-between items-center relative">
             <Link to="/" className="nav-link">
               {artistInfo.name}
             </Link>
-            <div className="flex gap-8">
+            {/* Burger button for mobile */}
+            <button
+                className="md:hidden flex flex-col justify-center items-center w-8 h-8"
+                onClick={() => setMenuOpen(open => !open)}
+                aria-label="Toggle menu"
+            >
+              <span className={`block w-6 h-0.5 bg-black mb-1 transition-all ${menuOpen ? 'rotate-45 translate-y-2' : ''}`}></span>
+              <span className={`block w-6 h-0.5 bg-black mb-1 transition-all ${menuOpen ? 'opacity-0' : ''}`}></span>
+              <span className={`block w-6 h-0.5 bg-black transition-all ${menuOpen ? '-rotate-45 -translate-y-2' : ''}`}></span>
+            </button>
+            {/* Desktop menu */}
+            <div className="hidden md:flex gap-8">
               <Link to="/" className="nav-link">Work</Link>
               <Link to="/about" className="nav-link">About</Link>
               <Link to="/contact" className="nav-link">Contact</Link>
             </div>
+            {/* Mobile menu */}
+            {menuOpen && (
+                <div className="absolute top-full right-0 mt-2 bg-white shadow-lg rounded-md flex flex-col gap-4 p-4 md:hidden z-50">
+                  <Link to="/" className="nav-link" onClick={() => setMenuOpen(false)}>Work</Link>
+                  <Link to="/about" className="nav-link" onClick={() => setMenuOpen(false)}>About</Link>
+                  <Link to="/contact" className="nav-link" onClick={() => setMenuOpen(false)}>Contact</Link>
+                </div>
+            )}
           </nav>
         </div>
       </header>
