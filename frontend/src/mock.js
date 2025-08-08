@@ -24,8 +24,8 @@ export const projectCategories = [
     description: "Live and participatory art events"
   },
   {
-    id: "video",
-    name: "Video",
+    id: "Photography",
+    name: "Photography",
     description: "Experimental and narrative video works"
   }
 ];
@@ -67,7 +67,7 @@ export const projects = [
   {
     id: "installation-3",
     title: "Forest of Light",
-    category: "installations",
+    category: "Photography",
     year: "2020",
     medium: "LED installation",
     description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
