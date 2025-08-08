@@ -108,7 +108,7 @@ export const projects = [
         {
             url: "/assets/lifeline small2.jpg",
             title: "",
-            description: "corridor of light"
+            description: "Corridor of light"
         },
 
     ]
