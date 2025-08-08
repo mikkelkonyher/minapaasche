@@ -73,7 +73,7 @@ const HomePage = () => {
           <div className="container-artworld">
             <div className="text-center mb-12">
               <h2 className="artist-name">{category.name}</h2>
-              <p className="body-text mt-4 max-w-xl mx-auto">
+              <p className="body-text mt-4 max-w-xl mx-auto" style={{ whiteSpace: 'pre-line' }}>
                 {category.description}
               </p>
             </div>
@@ -98,7 +98,7 @@ const HomePage = () => {
                       <span className="caption-text">{project.medium}</span>
                     </div>
                     <h3 className="artist-name text-lg">{project.title}</h3>
-                    <p className="caption-text mt-2 line-clamp-2">
+                    <p className="caption-text mt-2 line-clamp-2" style={{ whiteSpace: 'pre-line' }}>
                       {project.description}
                     </p>
                   </div>

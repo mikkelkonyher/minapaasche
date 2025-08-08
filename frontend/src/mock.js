@@ -44,7 +44,7 @@ export const projects = [
       {
         url: "/assets/_LMP4226,small.jpg",
         title: "",
-        description: "Film still"
+        description: "Film still of contemporary dancer Susanne Engbo Andersen"
       },
         {
             url: "/assets/Stillimage2,MinaPaasche2022,small.jpg",
@@ -68,52 +68,48 @@ export const projects = [
     year: "2022",
     medium: "Sound installation",
     description: "An 18-channel ambisonic sound installation immersing listeners in a precise, spatially mapped sonic environment. Recorded by the fjord and enriched with ocean drum, waterphone resonance, and layered field recordings, the 12:59-minute composition unfolds as a shifting landscape of textures and orientations. Presented in the Ambisonic Chambre at the Royal Danish Art Academy in 2022, the work invites the audience to navigate sound as space—where location becomes both a point on a map and an embodied, sensory experience.\n" +
-        " \n" +
-        "Collaboration with Mysa, Circe, Purri and a wonderful little anonymous human I know in Trondheim. Amalia Fonfara, Thea Ellingsen Grant, Daniel Vincent Hansen, Mikkel Konyher  and Stephen McEvoy.",
+        " \n"
+        ,
     coverImage: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
     images: [
       {
         url: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
         title: "",
-        description: "Installation view"
+        description: "Installation at the Royal Danish Art Academy"
       },
         {
             url: "/assets/AmbisonicspaceINstallperson, 2 small.jpg",
             title: "",
-            description: "Installation view"
+            description: "Collaboration with Mysa, Circe, Purri and a wonderful little anonymous human I know in Trondheim. Amalia Fonfara, Thea Ellingsen Grant, Daniel Vincent Hansen, Mikkel Konyher  and Stephen McEvoy."
         },
     ]
   },
+
   {
-    id: "installation-3",
-    title: "Forest of Light",
-    category: "Photography",
-    year: "2020",
-    medium: "LED installation",
-    description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
-    coverImage: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop&crop=center",
-    images: [
-      {
-        url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
-        title: "LED Forest",
-        description: "Immersive light experience"
-      },
-    ]
-  },
-  {
-    id: "installation-4",
-    title: "Mirror Maze",
+    id: "lifeline",
+    title: "FLASH Light Biennale – Lifeline",
     category: "installations",
-    year: "2019",
-    medium: "Mirrors and architecture",
-    description: "A labyrinth of mirrors challenging perception and orientation.",
-    coverImage: "https://images.unsplash.com/photo-1465101178521-c1a4c8a0f0a0?w=800&h=600&fit=crop&crop=center",
+    year: "2021",
+    medium: "Multimedia installation",
+    description: "At the FLASH Light Biennale in Suomenlinna, Helsinki, I collaborated with Nordic artists to transform a historic, chapel-like military space into an immersive light and sound installation. The work, Lifeline, used precision-shaped beams from two theatre lamps, combined with smoke and slow rhythmic fades, to create a shifting corridor of light and darkness. Accompanied by an atmospheric soundscape layered with diegetic industrial recordings, the piece invited visitors to experience altered perceptions of time and space within the fortress’s deep, resonant architecture.",
+    coverImage: "/assets/Lifeline,small1.jpg",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1465101178521-c1a4c8a0f0a0?w=1200&h=800&fit=crop&crop=center",
-        title: "Maze Entrance",
-        description: "Reflective surfaces"
+        url: "/assets/Lifeline,small1.jpg",
+        title: "",
+        description: "Suomenlinna fortress by the sea"
       },
+
+        {
+            url: "/assets/lifeline small 2.jpg",
+            title: "",
+            description: "Light, Smoke, Sound"
+        },
+        {
+            url: "/assets/lifeline small2.jpg",
+            title: "",
+            description: "corridor of light"
+        },
 
     ]
   },
@@ -150,6 +146,23 @@ export const projects = [
       }
     ]
   },
+
+    {
+        id: "installation-6",
+        title: "Shadow Play",
+        category: "installations",
+        year: "2017",
+        medium: "Light and shadow installation",
+        description: "An interactive space where visitors manipulate light sources to create evolving shadow patterns.",
+        coverImage: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800&h=600&fit=crop&crop=center",
+        images: [
+            {
+                url: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&h=800&fit=crop&crop=center",
+                title: "Shadow Patterns",
+                description: "Visitors interacting with light"
+            }
+        ]
+    },
 // Performances
   {
     id: "urban-solitude",
@@ -247,23 +260,41 @@ export const projects = [
       }
     ]
   },
-  // Video
-  {
-    id: "abstract-forms",
-    title: "Abstract Forms",
-    category: "video",
-    year: "2023",
-    medium: "Experimental video",
-    description: "Geometric abstractions inspired by Norwegian folk patterns and natural textures.",
-    coverImage: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop&crop=center",
-    images: [
-      {
-        url: "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=1200&h=800&fit=crop&crop=center",
-        title: "Fractured Landscape",
-        description: "Video still"
-      }
-    ]
-  }
+
+    // Photography
+    {
+        id: "installation-3",
+        title: "Forest of Light",
+        category: "Photography",
+        year: "2020",
+        medium: "LED installation",
+        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        coverImage: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop&crop=center",
+        images: [
+            {
+                url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
+                title: "LED Forest",
+                description: "Immersive light experience"
+            },
+        ]
+    },
+
+    {
+        id: "installation-3",
+        title: "Forest of Light",
+        category: "Photography",
+        year: "2020",
+        medium: "LED installation",
+        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        coverImage: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop&crop=center",
+        images: [
+            {
+                url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
+                title: "LED Forest",
+                description: "Immersive light experience"
+            },
+        ]
+    },
 ];
 
 export const testimonials = [

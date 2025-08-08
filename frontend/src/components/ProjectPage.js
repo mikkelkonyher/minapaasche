@@ -84,7 +84,7 @@ const ProjectPage = () => {
                 <h1 className="hero-title text-4xl md:text-5xl fade-in-up">
                   {project.title}
                 </h1>
-                <p className="body-text max-w-2xl mx-auto mt-6 fade-in-up fade-in-up-delay-1">
+                <p className="body-text max-w-2xl mx-auto mt-6 fade-in-up fade-in-up-delay-1" style={{ whiteSpace: 'pre-line' }}>
                   {project.description}
                 </p>
               </div>
@@ -106,7 +106,7 @@ const ProjectPage = () => {
                       </div>
                       <div className="mt-4 text-center">
                         <h3 className="artist-name text-lg">{image.title}</h3>
-                        <p className="caption-text mt-1">{image.description}</p>
+                        <p className="caption-text mt-1" style={{ whiteSpace: 'pre-line' }}>{image.description}</p>
                       </div>
                     </div>
                 ))}
