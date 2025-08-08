@@ -33,35 +33,55 @@ export const projectCategories = [
 export const projects = [
   // Installations
   {
-    id: "installation-1",
-    title: "Echo Chamber",
+    id: "mother",
+    title: "The Things Not Even Your Mother Can Tell You",
     category: "installations",
-    year: "2022",
-    medium: "Sound installation",
-    description: "A space where echoes and ambient sounds create an immersive auditory experience.",
-    coverImage: "https://static.wixstatic.com/media/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg/v1/fill/w_2814,h_1583,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg",
+    year: "2023",
+    medium: "Multimedia installation",
+    description: "The work explores fertility, transhumanism, and botany through a cross-disciplinary collaboration merging fine art, design, contemporary dance, music, sound design, and technology. Presented as a multimedia installation, the project debuted at my Master of Fine Arts Graduation Show at Room 61, KMD, Bergen in 2023. The work have also been shown at the mini peace festival and exhibition at The Feminist House in Trondheim, 2024.",
+      coverImage: "/assets/_LMP4226,small.jpg",
     images: [
       {
-        url: "https://static.wixstatic.com/media/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg/v1/fill/w_2814,h_1583,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/244aed_173f4f1826554336a36d9120375f932b~mv2.jpg",
-        title: "Echo Chamber Interior",
-        description: "Surround sound setup"
-      }
+        url: "/assets/_LMP4226,small.jpg",
+        title: "",
+        description: "Film still"
+      },
+        {
+            url: "/assets/Stillimage2,MinaPaasche2022,small.jpg",
+            title: "",
+            description: "Film still"
+        },
+        {
+            url: "/assets/_LMP4213.small.jpg",
+            title: "",
+            description: "Room 61 KMD, Bergen"
+        },
+
+
+
     ]
   },
   {
-    id: "installation-2",
-    title: "Glass Horizons",
+    id: "ambisonic-space",
+    title: "62°47′60″N 11°11′24″E",
     category: "installations",
-    year: "2021",
-    medium: "Glass and light installation",
-    description: "Refractions and reflections using glass panels and colored lights.",
-    coverImage: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop&crop=center",
+    year: "2022",
+    medium: "Sound installation",
+    description: "An 18-channel ambisonic sound installation immersing listeners in a precise, spatially mapped sonic environment. Recorded by the fjord and enriched with ocean drum, waterphone resonance, and layered field recordings, the 12:59-minute composition unfolds as a shifting landscape of textures and orientations. Presented in the Ambisonic Chambre at the Royal Danish Art Academy in 2022, the work invites the audience to navigate sound as space—where location becomes both a point on a map and an embodied, sensory experience.\n" +
+        " \n" +
+        "Collaboration with Mysa, Circe, Purri and a wonderful little anonymous human I know in Trondheim. Amalia Fonfara, Thea Ellingsen Grant, Daniel Vincent Hansen, Mikkel Konyher  and Stephen McEvoy.",
+    coverImage: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=1200&h=800&fit=crop&crop=center",
-        title: "Refraction Detail",
-        description: "Colored glass panels"
-      }
+        url: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
+        title: "",
+        description: "Installation view"
+      },
+        {
+            url: "/assets/AmbisonicspaceINstallperson, 2 small.jpg",
+            title: "",
+            description: "Installation view"
+        },
     ]
   },
   {
@@ -77,7 +97,7 @@ export const projects = [
         url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
         title: "LED Forest",
         description: "Immersive light experience"
-      }
+      },
     ]
   },
   {
@@ -93,7 +113,8 @@ export const projects = [
         url: "https://images.unsplash.com/photo-1465101178521-c1a4c8a0f0a0?w=1200&h=800&fit=crop&crop=center",
         title: "Maze Entrance",
         description: "Reflective surfaces"
-      }
+      },
+
     ]
   },
   {

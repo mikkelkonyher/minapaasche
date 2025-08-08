@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { artistInfo } from '../mock';
 import '../styles/artworld.css';
-import artistImage from '../assets/244aed_243cb7d5809a4c139f2ed3e941b368c5~mv2_d_3360_5040_s_4_2.webp';
+
 
 const AboutPage = () => {
     const [menuOpen, setMenuOpen] = useState(false);
@@ -49,7 +49,7 @@ const AboutPage = () => {
                 <div className="container-artworld">
                     <div className="max-w-3xl mx-auto text-center">
                         <img
-                            src={artistImage}
+                            src="/assets/244aed_243cb7d5809a4c139f2ed3e941b368c5~mv2_d_3360_5040_s_4_2.webp"
                             alt="Artist portrait"
                             className="mx-auto rounded-full shadow-lg mb-6 fade-in-up"
                             style={{ width: '180px', height: '180px', objectFit: 'cover' }}
