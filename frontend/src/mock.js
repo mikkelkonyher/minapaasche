@@ -113,22 +113,35 @@ export const projects = [
 
     ]
   },
-  {
-    id: "A bundle of echoes",
-    title: "A Bundle of Echoes",
-    category: "installations",
-    year: "2018",
-    medium: "Film installation",
-    description: "Visitors interact with water surfaces that respond to movement and sound.",
-    coverImage: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop&crop=center",
-    images: [
-      {
-        url: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&h=800&fit=crop&crop=center",
-        title: "Water Surface",
-        description: "Interactive water display"
-      }
-    ]
-  },
+    {
+        id: "A bundle of echoes",
+        title: "A Bundle of Echoes",
+        category: "installations",
+        year: "2018",
+        medium: "Film installation",
+        description: "Filmed in Shillong, India, this video work follows three visually impaired individuals who navigate their surroundings using echolocation—seeing through sound, touch, and movement. Rather than framing blindness as a disability, the project explores it as a distinct way of experiencing the world, one that offers deeper intimacy and connection than vision alone. The film accompanies the protagonists as they become the first group of visually impaired hikers to cross Meghalaya’s Living Root Bridge, climb the region’s iconic tree huts, and traverse dense jungle. Their journey challenges cultural perceptions of sight, ability, and independence, revealing new ways of sensing and inhabiting space.\n" +
+            "\n" +
+            "Collaboration with Maria Puenchir, Benister Kharpour, Thomas Tajo, Jones Pointing, Sonia Hage, Christopher Logan and Mikkel Koyher.",
+        coverImage: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
+        images: [
+            {
+                url: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
+                title: "",
+                description: "Lady Hydary park, Shillong, India"
+            },
+            {
+                url: "/assets/Dag 01 Parken & Kirken A.00_04_28_14.Still006, small.jpg",
+                title: "",
+                description: "Touching the bamboo trees"
+            },
+
+            {
+                url: "/assets/Dag 01 Parken & Kirken C.00_24_08_11.Still001, small.jpg",
+                title: "",
+                description: "The Cathedral Catholic Church in Shillong"
+            },
+        ]
+    },
 
 
 
