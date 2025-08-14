@@ -114,10 +114,40 @@ export const projects = [
     ]
   },
     {
+        id: "Factory Light Festival – Projection Mapping at Dikemark",
+        title: "Factory Light Festival – Projection Mapping at Dikemark",
+        category: "installations",
+        year: "2021",
+        medium: "Projection mapping installation",
+        description: "As part of the Factory Light Festival’s de:LUX production in Asker, Norway, I collaborated with Nordic artists to create a site-specific projection mapping work within 48 hours. Using high-powered projectors and the historic façade of an abandoned 1905 psychiatric facility, the visuals transformed the architecture into a dynamic canvas of light, texture, and movement. The piece merged experimental visuals with sound to respond to the site’s layered history, reimagining the space through contemporary digital storytelling.\n" +
+            "\n" +
+            "Collaboration with Ilmari Pesonen (FI) and Anton Kaldal Ágústsson (IS)",
+        coverImage: "/assets/_LMP2922,small.jpg",
+        images: [
+            {
+                url: "/assets/_LMP2922,small.jpg",
+                title: "",
+                description: "Projection mapping"
+            },
+            {
+                url: "/assets/_LMP2933,small.jpg",
+                title: "",
+                description: "untitled"
+            },
+
+            {
+                url: "/assets/_LMP2835,small.jpg",
+                title: "",
+                description: "untitled"
+            },
+        ]
+    },
+
+    {
         id: "A bundle of echoes",
         title: "A Bundle of Echoes",
         category: "installations",
-        year: "2018",
+        year: "2020",
         medium: "Film installation",
         description: "Filmed in Shillong, India, this video work follows three visually impaired individuals who navigate their surroundings using echolocation—seeing through sound, touch, and movement. Rather than framing blindness as a disability, the project explores it as a distinct way of experiencing the world, one that offers deeper intimacy and connection than vision alone. The film accompanies the protagonists as they become the first group of visually impaired hikers to cross Meghalaya’s Living Root Bridge, climb the region’s iconic tree huts, and traverse dense jungle. Their journey challenges cultural perceptions of sight, ability, and independence, revealing new ways of sensing and inhabiting space.\n" +
             "\n" +
