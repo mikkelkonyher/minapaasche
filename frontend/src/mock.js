@@ -218,19 +218,35 @@ export const projects = [
 
 // Performances
   {
-    id: "urban-solitude",
-    title: "Urban Solitude",
+    id: "Sindre",
+    title: "Sindre",
     category: "performances",
     year: "2024",
     medium: "Live performance",
-    description: "A performance exploring loneliness and connection in Norwegian cities.",
-    coverImage: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&h=600&fit=crop&crop=center",
+    description: "Created for the J.T. Lundbye Festival in Kalundborg, Denmark, Sindre was a cross-disciplinary performance combining live music, spoken word, and large-scale video projections. Conceived by composer and musician Jesper Balslev, the piece brought together a team of artists to celebrate Lundbye’s birthday with a site-specific concert experience. My contribution was the visual dimension - a 5 × 14 metre projection mapping that enveloped the space in shifting imagery, merging seamlessly with the music and narration to create an immersive, multi-sensory encounter.\n\n" +
+        "Collaboration with Jesper Balslev, Samira Dayyani, Morten Grønvad, Lars Emil Fode, Martin Kejser, Marianne Glynstrup, Rasmus Satto and Mina Paasche. ",
+    coverImage: "/assets/IMG_1354, small.jpg",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=1200&h=800&fit=crop&crop=center",
-        title: "Evening Commute",
-        description: "Oslo Central Station, 2024"
-      }
+        url: "/assets/IMG_1354, small.jpg",
+        title: "",
+        description: "Untitled"
+      },
+        {
+            url: "/assets/Koncert_Jesper_1.sept_(02), small.jpg",
+            title: "",
+            description: "Untitled"
+        },
+        {
+            url: "/assets/Koncert_Jesper_1.sept_(14), small.jpg",
+            title: "",
+            description: "Untitled"
+        },
+        {
+            url: "/assets/Koncert_Jesper_1.sept_(17), small.jpg",
+            title: "",
+            description: "Untitled"
+        },
     ]
   },
   {
