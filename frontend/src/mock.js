@@ -114,11 +114,11 @@ export const projects = [
     ]
   },
   {
-    id: "installation-5",
-    title: "Water Memory",
+    id: "A bundle of echoes",
+    title: "A Bundle of Echoes",
     category: "installations",
     year: "2018",
-    medium: "Interactive water installation",
+    medium: "Film installation",
     description: "Visitors interact with water surfaces that respond to movement and sound.",
     coverImage: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop&crop=center",
     images: [
@@ -130,39 +130,9 @@ export const projects = [
     ]
   },
 
-  {
-    id: "installation-6",
-    title: "Shadow Play",
-    category: "installations",
-    year: "2017",
-    medium: "Light and shadow installation",
-    description: "An interactive space where visitors manipulate light sources to create evolving shadow patterns.",
-    coverImage: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800&h=600&fit=crop&crop=center",
-    images: [
-      {
-        url: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&h=800&fit=crop&crop=center",
-        title: "Shadow Patterns",
-        description: "Visitors interacting with light"
-      }
-    ]
-  },
 
-    {
-        id: "installation-6",
-        title: "Shadow Play",
-        category: "installations",
-        year: "2017",
-        medium: "Light and shadow installation",
-        description: "An interactive space where visitors manipulate light sources to create evolving shadow patterns.",
-        coverImage: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=800&h=600&fit=crop&crop=center",
-        images: [
-            {
-                url: "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=1200&h=800&fit=crop&crop=center",
-                title: "Shadow Patterns",
-                description: "Visitors interacting with light"
-            }
-        ]
-    },
+
+
 // Performances
   {
     id: "urban-solitude",
