@@ -326,24 +326,36 @@ export const projects = [
             title: "",
             description: "Untitled"
         },
-        
+
 
     ]
   },
   {
-    id: "performance-2",
-    title: "Midnight Sun Ritual",
+    id: "Myrull til min venn",
+    title: "Myrull til min venn",
     category: "performances",
-    year: "2022",
-    medium: "Outdoor performance",
-    description: "A ritualistic dance under the midnight sun in northern Norway.",
-    coverImage: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop&crop=center",
+    year: "2020",
+    medium: "live visuals",
+    description: "At Mørkerommet in Rosendal Theatre, I created and performed the live visuals for Myrull til min venn, an audiovisual evening that unfolded as an immersive, multi-sensory landscape. Moving images, layered textiles, and drifting smoke merged with the live concert by Pallas Kat, transforming the theatre space into a dreamlike, shifting environment." +
+        " The visuals responded to the music in real time, expanding its emotional textures into a tactile visual dimension. Subtle patterns and flowing imagery evoked the softness and fragility of myrull (cottongrass), while moments of intensity drew the audience deeper into the performance’s intimate yet otherworldly atmosphere.\n\n" +
+        "Curated by Mishi Foltyn, the piece was both a concert and an installation—an invitation to linger within a space where sound, image, and material presence existed in constant dialogue.",
+    coverImage: "/assets/_A8A9816, small.jpg",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=1200&h=800&fit=crop&crop=center",
-        title: "Midnight Dance",
-        description: "Northern Norway, 2022"
-      }
+        url: "/assets/_A8A9816, small.jpg",
+        title: "",
+        description: "Untitled"
+      },
+        {
+            url: "/assets/_A8A9878,small.jpg",
+            title: "",
+            description: "Untitled"
+        },
+        {
+            url: "/assets/_A8A9939,small.jpg",
+            title: "",
+            description: "Untitled"
+        },
     ]
   },
   {
