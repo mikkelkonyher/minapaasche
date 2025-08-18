@@ -299,19 +299,35 @@ export const projects = [
     },
 
   {
-    id: "performance-1",
-    title: "Echoes in the Fjord",
+    id: "The Old Mine – Immersive Projections",
+    title: "The Old Mine – Immersive Projections",
     category: "performances",
-    year: "2023",
+    year: "2021",
     medium: "Site-specific performance",
-    description: "A sound and movement piece performed on the shores of a Norwegian fjord.",
-    coverImage: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop&crop=center",
+    description: "In an ongoing interdisciplinary collaboration, I created a large-scale projection and textile installation for a performance inside the Old Mine at Løkken Værk, Trondheim. Two semi-transparent sails hung from the mine’s historic wire system became shifting canvases for black-and-white video projections, blending with the cave walls so the minerals and stone subtly altered the imagery. The visuals—drawn from plants and microorganisms around Trondheim—shifted from naturalistic forms to glitchy abstractions, evoking both cave paintings and shadow theatre. Candlelight and a single replica oil lamp illuminated the space, heightening the interplay between light, shadow, and imagination.\n" +
+        "\n" +
+        "Collaboration with Amalia Fonfara, Jan Roar Gjersvold and Mikkel Konyher.",
+    coverImage: "/assets/IMG_3262, small.jpg",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1200&h=800&fit=crop&crop=center",
-        title: "Fjord Echo",
-        description: "Performance at sunset"
-      }
+        url: "/assets/IMG_3262, small.jpg",
+        title: "",
+        description: "Untitled"
+      },
+
+        {
+            url: "/assets/IMG_2229.jpg",
+            title: "",
+            description: "Untitled"
+        },
+
+        {
+            url: "/assets/IMG_2454, small.jpg",
+            title: "",
+            description: "Untitled"
+        },
+        
+
     ]
   },
   {
