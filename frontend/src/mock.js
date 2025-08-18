@@ -249,6 +249,23 @@ export const projects = [
         },
     ]
   },
+
+    {
+        id: "how to read water",
+        title: "How to Read Water",
+        category: "performances",
+        year: "2023",
+        medium: "Interactive performance",
+        description: "In ‘How to read water’ dance artist Anna Thu Schmidt, musician Thea Ellingsen Grant, and visual artist/VJ Mina Paasche create a multidisciplinary performance experience and invite you into a timeless and meditative space. ‘How to read water’ takes inspiration from the relationship between the human body and the ocean. The connection one feels to the ocean is translated to a connection between performer and audience.",
+        coverImage: "https://static.wixstatic.com/media/244aed_dba81118865b40ad8a00531f34864319~mv2.jpg/v1/fill/w_1188,h_668,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/244aed_dba81118865b40ad8a00531f34864319~mv2.jpg",
+        images: [
+            {
+                url: "https://static.wixstatic.com/media/244aed_3b97cc73dc9c487fb30608870ad54a82~mv2.jpg/v1/fill/w_2726,h_1533,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/244aed_3b97cc73dc9c487fb30608870ad54a82~mv2.jpg",
+                title: "anna dances",
+                description: "Interactive session"
+            }
+        ]
+    },
   {
     id: "performance-1",
     title: "Echoes in the Fjord",
@@ -297,22 +314,7 @@ export const projects = [
       }
     ]
   },
-  {
-    id: "how to read water",
-    title: "How to Read Water",
-    category: "performances",
-    year: "2023",
-    medium: "Interactive performance",
-    description: "In ‘How to read water’ dance artist Anna Thu Schmidt, musician Thea Ellingsen Grant, and visual artist/VJ Mina Paasche create a multidisciplinary performance experience and invite you into a timeless and meditative space. ‘How to read water’ takes inspiration from the relationship between the human body and the ocean. The connection one feels to the ocean is translated to a connection between performer and audience.",
-    coverImage: "https://static.wixstatic.com/media/244aed_dba81118865b40ad8a00531f34864319~mv2.jpg/v1/fill/w_1188,h_668,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/244aed_dba81118865b40ad8a00531f34864319~mv2.jpg",
-    images: [
-      {
-        url: "https://static.wixstatic.com/media/244aed_3b97cc73dc9c487fb30608870ad54a82~mv2.jpg/v1/fill/w_2726,h_1533,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/244aed_3b97cc73dc9c487fb30608870ad54a82~mv2.jpg",
-        title: "anna dances",
-        description: "Interactive session"
-      }
-    ]
-  },
+
   {
     id: "performance-5",
     title: "Pulse",
