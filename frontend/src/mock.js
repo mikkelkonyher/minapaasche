@@ -261,7 +261,7 @@ export const projects = [
         images: [
             {
                 url: "/assets/_DVH9096,small.jpg",
-                title: "anna dances",
+                title: "",
                 description: "Interactive session"
             },
 
