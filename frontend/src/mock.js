@@ -335,7 +335,7 @@ export const projects = [
     title: "Myrull til min venn",
     category: "performances",
     year: "2020",
-    medium: "live visuals",
+    medium: "Audiovisual performance",
     description: "At Mørkerommet in Rosendal Theatre, I created and performed the live visuals for Myrull til min venn, an audiovisual evening that unfolded as an immersive, multi-sensory landscape. Moving images, layered textiles, and drifting smoke merged with the live concert by Pallas Kat, transforming the theatre space into a dreamlike, shifting environment." +
         " The visuals responded to the music in real time, expanding its emotional textures into a tactile visual dimension. Subtle patterns and flowing imagery evoked the softness and fragility of myrull (cottongrass), while moments of intensity drew the audience deeper into the performance’s intimate yet otherworldly atmosphere.\n\n" +
         "Curated by Mishi Foltyn, the piece was both a concert and an installation—an invitation to linger within a space where sound, image, and material presence existed in constant dialogue.",
@@ -359,19 +359,31 @@ export const projects = [
     ]
   },
   {
-    id: "performance-3",
-    title: "Silent City",
+    id: "Floating Greenhouse",
+    title: "Floating Greenhouse",
     category: "performances",
     year: "2021",
-    medium: "Urban intervention",
-    description: "A silent walk through Oslo exploring urban space and collective presence.",
-    coverImage: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop&crop=center",
+    medium: "Audiovisual performance",
+    description: "On the waters of Trondheimsfjorden, a floating greenhouse becomes both stage and vessel. Live visuals merge with ambient electronic compositions and shamanistic ritual elements, transforming the structure into a drifting ceremonial space. The glass walls catch reflections of sky and water, while layered soundscapes ripple outward into the fjord. This hybrid of performance, installation, and ritual invites audiences to experience the fjord as a living collaborator—its light, movement, and acoustics shaping the event in real time. The work blurs the boundaries between land and water, nature and architecture, technology and spirituality.\n\n" +
+        "Collaboration with: Amalia Fonfara, Ambient Light and Pallas Kat.  ",
+    coverImage: "/assets/083A1548,small.jpg",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
-        title: "Silent Walk",
-        description: "Oslo, 2021"
-      }
+        url: "/assets/083A1548,small.jpg",
+        title: "",
+        description: "Untitled"
+      },
+        {
+            url: "/assets/083A1576,small.jpg",
+            title: "",
+            description: "Untitled"
+        },
+        {
+            url: "/assets/083A1584,small.jpg",
+            title: "",
+            description: "Untitled"
+        },
+
     ]
   },
 
