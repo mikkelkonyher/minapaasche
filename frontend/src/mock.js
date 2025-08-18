@@ -388,19 +388,30 @@ export const projects = [
   },
 
   {
-    id: "performance-5",
-    title: "Pulse",
+    id: "Live Visuals for Gundelach – Sentrum Scene",
+    title: "Live Visuals for Gundelach – Sentrum Scene",
     category: "performances",
     year: "2019",
-    medium: "Dance performance",
-    description: "A contemporary dance piece exploring rhythm and emotion.",
-    coverImage: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=800&h=600&fit=crop&crop=center",
+    medium: "Audiovisual performance",
+    description: "For Gundelach’s largest solo performance to date, at Sentrum Scene during Red Bull Music Festival Oslo, I created and performed the live visual scenography. The concert was conceived as a conceptual, multi-sensory experience, where music, light, and image merged into a unified narrative.\n\n" +
+        "My visuals were designed to mirror the emotional arc of Gundelach’s setlist, translating his signature melancholic falsetto and noir-inspired production into moving imagery. Layered projections and generative visuals unfolded in real time, synchronised with the live sound. Inspired by the floral motifs and shifting moods of his My Frail Body project—a visual journey through flowers—the imagery evolved from subtle, dreamlike abstractions to intense, saturated sequences, enveloping the stage and audience in an immersive atmosphere.",
+    coverImage: "/assets/GundelachSentrumSceneJonathanVivaasKise.1.JPG",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=1200&h=800&fit=crop&crop=center",
-        title: "Pulse",
-        description: "Dance performance, 2019"
-      }
+        url: "/assets/GundelachSentrumSceneJonathanVivaasKise.1.JPG",
+        title: "",
+        description: "Untitled"
+      },
+        {
+            url: "/assets/GundelachSentrumSceneJonathanVivaasKise.3.JPG",
+            title: "",
+            description: "Untitled"
+        },
+        {
+            url: "/assets/GundelachSentrumSceneJonathanVivaasKise.4.JPG",
+            title: "",
+            description: "Untitled"
+        },
     ]
   },
 
