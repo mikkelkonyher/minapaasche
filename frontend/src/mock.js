@@ -315,6 +315,19 @@ export const projects = [
         description: "Untitled"
       },
 
+
+
+
+
+
+
+
+
+
+
+
+
+
         {
             url: "/assets/IMG_2229.jpg",
             title: "",
@@ -417,18 +430,45 @@ export const projects = [
 
     // Photography
     {
-        id: "installation-3",
-        title: "Forest of Light",
+        id: "The Outer Edge Of Each Eye",
+        title: "The Outer Edge Of Each Eye",
         category: "Photography",
-        year: "2020",
-        medium: "LED installation",
-        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
-        coverImage: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop&crop=center",
+        year: "2020, 2025",
+        medium: "Photography",
+        description: "A hypnotic fusion of science fiction, deep-sea horror, in combination with photography and experimental cinema, The Outer Edge of Each Eye dissolves the boundaries between human, animal, and machine. Haunting imagery—frozen landscapes, insect wings, the hum of hidden machinery—shifts fluidly as time stretches and contracts. Nature reclaims its power, while an unseen presence lingers just beyond perception. Filmed across landscapes and botanical sites in Norway and Denmark, the work draws viewers into a world where the familiar transforms into something otherworldly and unknown.\n" +
+            " \n" +
+            "Collaborations with: Mikkel Konyher, Siri Vinterly, Oscar Debbs, Nanna Klith Hougaard, Anaclara Talento, Per Stian Monsås, Lise Ulvedahl Carlsen, Ivu Rosenauer, Einar Grinde, Jan Roar Gjersvold, Phillip Göllner, Trygve Eiulf, Daniel Vincent Hansen and Sigrid Voll Bøyum.",
+        coverImage: "/assets/BogWSkjermbilde 2020-11-30 kl. 16.28.52, small.jpg",
         images: [
             {
-                url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
-                title: "LED Forest",
-                description: "Immersive light experience"
+                url: "/assets/BogWSkjermbilde 2020-11-30 kl. 16.28.52, small.jpg",
+                title: "",
+                description: "untitled"
+            },
+            {
+                url: "/assets/Biene3bogw, small.jpg",
+                title: "",
+                description: "untitled"
+            },
+            {
+                url: "/assets/BogWUlvetimen, small1.jpg",
+                title: "",
+                description: "untitled"
+            },
+            {
+                url: "/assets/missyHummelvikBogW, small.jpg",
+                title: "",
+                description: "untitled"
+            },
+            {
+                url: "/assets/PelsjegerenBogW, small.jpg",
+                title: "",
+                description: "untitled"
+            },
+            {
+                url: "/assets/TodalenBogW, small.jpg",
+                title: "",
+                description: "untitled"
             },
         ]
     },
