@@ -474,18 +474,65 @@ export const projects = [
     },
 
     {
-        id: "installation-3",
-        title: "Forest of Light",
+        id: "Born to be Free",
+        title: "Born to be Free",
         category: "Photography",
         year: "2020",
-        medium: "LED installation",
+        medium: "Photography",
         description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
-        coverImage: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=800&h=600&fit=crop&crop=center",
+        coverImage: "/assets/BorntoBeFree,2022,MinaPaascheLOWQ, small.jpg",
         images: [
             {
-                url: "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=1200&h=800&fit=crop&crop=center",
-                title: "LED Forest",
-                description: "Immersive light experience"
+                url: "/assets/BorntoBeFree,2022,MinaPaascheLOWQ, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/17, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+        ]
+    },
+
+    {
+        id: "Potraits",
+        title: "Portraits",
+        category: "Photography",
+        year: "2020",
+        medium: "Photography",
+        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        coverImage: "/assets/_LMP4031, small.jpg",
+        images: [
+            {
+                url: "/assets/_LMP4031, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/Bidrag 3. Resting Bitch Face, Mina Paasche, 2020, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/_LMP7618, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/_LMP7350,small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/_LMP6432, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/MathiasBroe_redigert, small.jpg",
+                title: "",
+                description: "Untitled"
             },
         ]
     },
