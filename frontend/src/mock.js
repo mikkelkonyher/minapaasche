@@ -536,6 +536,78 @@ export const projects = [
             },
         ]
     },
+
+    {
+        id: "Pride",
+        title: "Pride 2022",
+        category: "Photography",
+        year: "2022",
+        medium: "Photography",
+        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        coverImage: "/assets/5821EB7E-569A-4EFC-8028-7EA45FF58F68, small.jpg",
+        images: [
+            {
+                url: "/assets/5821EB7E-569A-4EFC-8028-7EA45FF58F68, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/PrinsLise,2021,MinaPaascheLOWQ.jpg",
+                title: "",
+                description: "Untitled"
+            },
+        ]
+    },
+
+    {
+        id: "Street view at Geiten",
+        title: "Street view at Geiten",
+        category: "Photography",
+        year: "2020",
+        medium: "Photography",
+        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        coverImage: "/assets/DSC_9702.jpg",
+        images: [
+            {
+                url: "/assets/DSC_9702.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/DSC_9739.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/DSC09289, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+        ]
+    },
+
+
+    {
+        id: "Street View",
+        title: "Street View",
+        category: "Photography",
+        year: "2020",
+        medium: "Photography",
+        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        coverImage: "/assets/Streetviewfullformat, small.jpg",
+        images: [
+            {
+                url: "/assets/Streetviewfullformat, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+            {
+                url: "/assets/DSC00226, small.jpg",
+                title: "",
+                description: "Untitled"
+            },
+        ]
+    },
 ];
 
 export const testimonials = [
