@@ -68,19 +68,19 @@ export const projects = [
     year: "2022",
     medium: "Sound installation",
     description: "An 18-channel ambisonic sound installation immersing listeners in a precise, spatially mapped sonic environment. Recorded by the fjord and enriched with ocean drum, waterphone resonance, and layered field recordings, the 12:59-minute composition unfolds as a shifting landscape of textures and orientations. Presented in the Ambisonic Chambre at the Royal Danish Art Academy in 2022, the work invites the audience to navigate sound as space—where location becomes both a point on a map and an embodied, sensory experience.\n" +
-        " \n"
+        " \nCollaboration with Mysa, Circe, Purri and a wonderful little anonymous human I know in Trondheim. Amalia Fonfara, Thea Ellingsen Grant, Daniel Vincent Hansen, Mikkel Konyher  and Stephen McEvoy."
         ,
     coverImage: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
     images: [
       {
         url: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
         title: "",
-        description: "Installation at the Royal Danish Art Academy"
+        description: "Installation at the Royal Danish Art Academy in Copenhagen"
       },
         {
             url: "/assets/AmbisonicspaceINstallperson, 2 small.jpg",
             title: "",
-            description: "Collaboration with Mysa, Circe, Purri and a wonderful little anonymous human I know in Trondheim. Amalia Fonfara, Thea Ellingsen Grant, Daniel Vincent Hansen, Mikkel Konyher  and Stephen McEvoy."
+            description: ""
         },
     ]
   },
