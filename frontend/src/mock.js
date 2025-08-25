@@ -38,23 +38,26 @@ export const projects = [
     category: "installations",
     year: "2023",
     medium: "Multimedia installation",
-    description: "The work explores fertility, transhumanism, and botany through a cross-disciplinary collaboration merging fine art, design, contemporary dance, music, sound design, and technology. Presented as a multimedia installation, the project debuted at my Master of Fine Arts Graduation Show at Room 61, KMD, Bergen in 2023. The work have also been shown at the mini peace festival and exhibition at The Feminist House in Trondheim, 2024.",
+    description: "The work explores fertility, transhumanism, and botany through a cross-disciplinary collaboration merging fine art, design, contemporary dance, music, sound design, and technology. Presented as a multimedia installation, the project debuted at my Master of Fine Arts Graduation Show at Room 61, KMD, Bergen in 2023. The work have also been shown at the mini peace festival and exhibition at The Feminist House in Trondheim, 2024.\n\n" +"Collaborators: Marvin the robot, Medusa the 3D printer, Susanne Engbo Andersen, Mikkel Konyher, Lydia Vermaat-Wallin, Oskar Kolliander, Mina Paasche, Ivy Rosenauer, Qianhui Qian, Lise Ulvedahl Carlsen, Mathieu Détalle, Barbora Pollakova,Tobias Normann Valentin, Dominique Nachi, Henna Nerg, Rafal Krzystof Sobczynski, Endre Oma, Courtney Coombs, Ågot & Latifah, Oda Oftung,Scott Elliot,Yaser Rahal, Anaclara Talento, Sidsel Christensen, Luz Maria Sanchez & Agniezka Polska.",
       coverImage: "/assets/_LMP4226,small.jpg",
     images: [
       {
         url: "/assets/_LMP4226,small.jpg",
         title: "",
-        description: "Film still of contemporary dancer Susanne Engbo Andersen"
+        description: "Film still of contemporary dancer Susanne Engbo Andersen",
+          alt: "Film still of contemporary dancer Susanne Engbo Andersen"
       },
         {
             url: "/assets/Stillimage2,MinaPaasche2022,small.jpg",
             title: "",
-            description: "Film still"
+            description: "Film still and 3D printed sculptures",
+            alt: "Film still of contemporary dancer Susanne Engbo Andersen"
         },
         {
             url: "/assets/_LMP4213.small.jpg",
             title: "",
-            description: "Room 61 KMD, Bergen"
+            description: "nstallation view: Room 61, KMD, Bergen",
+            alt: "Installation view: Room 61, KMD, Bergen"
         },
 
 
@@ -75,12 +78,14 @@ export const projects = [
       {
         url: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
         title: "",
-        description: "Installation at the Royal Danish Art Academy in Copenhagen"
+        description: "Ambisonic space",
+          alt: "Ambisonic space"
       },
         {
             url: "/assets/AmbisonicspaceINstallperson, 2 small.jpg",
             title: "",
-            description: ""
+            description: "Installation view: The Royal Danis Art Academy, Copenhagen.",
+            alt: "Installation view: The Royal Danis Art Academy, Copenhagen."
         },
     ]
   },
@@ -91,24 +96,27 @@ export const projects = [
     category: "installations",
     year: "2021",
     medium: "Multimedia installation",
-    description: "At the FLASH Light Biennale in Suomenlinna, Helsinki, I collaborated with Nordic artists to transform a historic, chapel-like military space into an immersive light and sound installation. The work, Lifeline, used precision-shaped beams from two theatre lamps, combined with smoke and slow rhythmic fades, to create a shifting corridor of light and darkness. Accompanied by an atmospheric soundscape layered with diegetic industrial recordings, the piece invited visitors to experience altered perceptions of time and space within the fortress’s deep, resonant architecture.",
+    description: "At the FLASH Light Biennale in Suomenlinna, Helsinki, I collaborated with Nordic artists to transform a historic, chapel-like military space into an immersive light and sound installation. The work, Lifeline, used precision-shaped beams from two theatre lamps, combined with smoke and slow rhythmic fades, to create a shifting corridor of light and darkness. Accompanied by an atmospheric soundscape layered with diegetic industrial recordings, the piece invited visitors to experience altered perceptions of time and space within the fortress’s deep, resonant architecture.\n\n" + "Collaboration with Vilma Vantola and Ísidór Jökull Bjarnason.",
     coverImage: "/assets/Lifeline,small1.jpg",
     images: [
       {
         url: "/assets/Lifeline,small1.jpg",
         title: "",
-        description: "Suomenlinna fortress by the sea"
+        description: "Corridor of light",
+          alt: "Corridor of light"
       },
 
         {
             url: "/assets/lifeline small 2.jpg",
             title: "",
-            description: "Light, Smoke, Sound"
+            description: "Light, Smoke, Sound",
+            alt : "Light, Smoke, Sound"
         },
         {
             url: "/assets/lifeline small2.jpg",
             title: "",
-            description: "Corridor of light"
+            description: "Suomenlinna fortress by the sea",
+            alt: "Suomenlinna fortress by the sea"
         },
 
     ]
