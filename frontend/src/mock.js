@@ -161,25 +161,28 @@ export const projects = [
         year: "2020",
         medium: "Film installation",
         description: "Filmed in Shillong, India, this video work follows three visually impaired individuals who navigate their surroundings using echolocation—seeing through sound, touch, and movement. Rather than framing blindness as a disability, the project explores it as a distinct way of experiencing the world, one that offers deeper intimacy and connection than vision alone. The film accompanies the protagonists as they become the first group of visually impaired hikers to cross Meghalaya’s Living Root Bridge, climb the region’s iconic tree huts, and traverse dense jungle. Their journey challenges cultural perceptions of sight, ability, and independence, revealing new ways of sensing and inhabiting space.\n" +
-            "\n" +
+            "\n" + "The work have been shown at the \"20 Years Retrospective of Experimental Video Art Exhibition, Thai-European Friendship\", Bangkok art and culture centre, Bankok, Thailand (2023), Filmkunstskolen i Kabelvåg, Lofoten (2023), College of enginering, design, art & technology, Makerere University, Kampala, Uganda (2022), SKAP 2022, Sabanci University, Faculity of Arts and Social Sciences, Istanbul, Turkey (2022), The Art Academy in Bergen (2021) and Ars Electronica Festival in Linz, Austria (2020).\n\n" +
             "Collaboration with Maria Puenchir, Benister Kharpour, Thomas Tajo, Jones Pointing, Sonia Hage, Christopher Logan and Mikkel Koyher.",
         coverImage: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
         images: [
             {
                 url: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
                 title: "",
-                description: "Lady Hydary park, Shillong, India"
+                description: "Lady Hydary park, Shillong, India",
+                alt: "Lady Hydary park, Shillong, India"
             },
             {
                 url: "/assets/Dag 01 Parken & Kirken A.00_04_28_14.Still006, small.jpg",
                 title: "",
-                description: "Touching the bamboo trees"
+                description: "Touching the bamboo trees",
+                alt: "Touching the bamboo trees"
             },
 
             {
                 url: "/assets/Dag 01 Parken & Kirken C.00_24_08_11.Still001, small.jpg",
                 title: "",
-                description: "The Cathedral Catholic Church in Shillong"
+                description: "The Cathedral Catholic Church in Shillong",
+                alt: "The Cathedral Catholic Church in Shillong"
             },
         ]
     },
@@ -191,13 +194,14 @@ export const projects = [
         year: "2021",
         medium: "Film installation",
         description: "Listening and Navigation is a series consisting of different intermedia installations exploring human echolocation as both a navigational skill and an alternative way of perceiving the world. Six transducer speakers, connected through multiple amplifiers and channels, transmit vibrations through materials like wood and glass, allowing visitors to experience sound physically as well as aurally. Live field recordings follow Maria Puenchir navigating snowy forests in Trondheim using echolocation, while a drone tracks their movements from above—machine and human simultaneously finding their way through the landscape. The work invites audiences into a world where hearing becomes a form of vision, and where echoes form an existential dialogue with the environment.\n\n" +
-            "Collaborators: Maria Puenchir, Mikkel Konyher, Trygve Waagen, Emiel Huijes, Fatuma Abdi, Joel Vide Hynsjö and Ingunn Schumann Mosand.",
+            "The works have been shown at Khalil Sakakini Cultural Center, Ramallah, Palestine (2022), Aarhus Artspace, Aarhus, Denmark (2020), KLP, Teknobyen, Trondheim, Norway (2020), Den Frie Utstillings Bygning, Copenhagen, Denmark (2019), Galleri KIT, The Art Academy in Trondheim, Norway (2021, 2019, 2018)."+ "\n\n" +"Collaborators: Maria Puenchir, Mikkel Konyher, Trygve Waagen, Emiel Huijes, Fatuma Abdi, Joel Vide Hynsjö and Ingunn Schumann Mosand.",
         coverImage: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
         images: [
             {
                 url: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: " Aarhus Artspace, Aarhus, Denmark (2020)",
+                alt: " Aarhus Artspace, Aarhus, Denmark (2020)"
             },
             {
                 url: "/assets/DSC02703, small.jpg",
