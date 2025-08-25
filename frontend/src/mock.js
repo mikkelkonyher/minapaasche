@@ -6,9 +6,9 @@ export const artistInfo = {
   bio: "Norwegian visual artist exploring the intersection of light, form, and emotion through various mediums including painting, photography, and installation work.",
   email: "Minapaasche@gmail.com",
   social: {
-    instagram: "https://instagram.com/minapaasche",
-    facebook: "https://facebook.com/minapaasche.art",
-    linkedin: "https://linkedin.com/in/minapaasche"
+    instagram: "https://www.instagram.com/minapaaschestudio/",
+    facebook: "https://www.facebook.com/minapaaschestudio/",
+    linkedin: "https://www.linkedin.com/in/mina-paasche/?originalSubdomain=dk"
   }
 };
 
