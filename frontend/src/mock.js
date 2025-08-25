@@ -129,24 +129,27 @@ export const projects = [
         medium: "Projection mapping installation",
         description: "As part of the Factory Light Festival’s de:LUX production in Asker, Norway, I collaborated with Nordic artists to create a site-specific projection mapping work within 48 hours. Using high-powered projectors and the historic façade of an abandoned 1905 psychiatric facility, the visuals transformed the architecture into a dynamic canvas of light, texture, and movement. The piece merged experimental visuals with sound to respond to the site’s layered history, reimagining the space through contemporary digital storytelling.\n" +
             "\n" +
-            "Collaboration with Ilmari Pesonen (FI) and Anton Kaldal Ágústsson (IS)",
+            "Collaboration with Ilmari Pesonen and Anton Kaldal Ágústsson.",
         coverImage: "/assets/_LMP2922,small.jpg",
         images: [
             {
                 url: "/assets/_LMP2922,small.jpg",
                 title: "",
-                description: "Projection mapping"
+                description: "Where do we grow from here?",
+                alt: "Where do we grow from here?"
             },
             {
                 url: "/assets/_LMP2933,small.jpg",
                 title: "",
-                description: "untitled"
+                description: "Projectionmapping, video, sound and scent",
+                alt: "Projectionmapping, video, sound and scent"
             },
 
             {
                 url: "/assets/_LMP2835,small.jpg",
                 title: "",
-                description: "untitled"
+                description: "”The bakery” at Dikemark psyciatric hospital, Asker, Norway",
+                alt: "”The bakery” at Dikemark psyciatric hospital, Asker, Norway"
             },
         ]
     },
