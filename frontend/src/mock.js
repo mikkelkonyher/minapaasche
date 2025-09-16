@@ -59,7 +59,7 @@ export const projects = [
         {
             url: "/assets/_LMP4213.small.jpg",
             title: "",
-            description: "nstallation view: Room 61, KMD, Bergen.",
+            description: "Installation view: Room 61, KMD, Bergen.",
             alt: "Installation view: Room 61, KMD, Bergen"
         },
 
@@ -73,7 +73,7 @@ export const projects = [
     category: "installations",
     year: "2022",
     medium: "Sound installation",
-    description: "An 18-channel ambisonic sound installation immersing listeners in a precise, spatially mapped sonic environment. Recorded by the fjord and enriched with ocean drum, waterphone resonance, and layered field recordings, the 12:59-minute composition unfolds as a shifting landscape of textures and orientations. Presented in the Ambisonic Chambre at the Royal Danish Art Academy in 2022, the work invites the audience to navigate sound as space—where location becomes both a point on a map and an embodied, sensory experience.\n" +
+    description: "An 18-channel ambisonic sound installation immersing listeners in a precise, spatially mapped sonic environment. Recorded by the fjord and enriched with ocean drum, waterphone resonance, and layered field recordings, the 12:59-minute composition unfolds as a shifting landscape of textures and orientations. Presented in the Ambisonic Chambre at the Royal Danish Art Academy in 2022, the work invites the audience to navigate sound as space, where location becomes both a point on a map and an embodied, sensory experience.\n" +
         " \nCollaboration with Mysa, Circe, Purri and a wonderful little anonymous human I know in Trondheim. Amalia Fonfara, Thea Ellingsen Grant, Daniel Vincent Hansen, Mikkel Konyher  and Stephen McEvoy."
         ,
     coverImage: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
@@ -87,8 +87,8 @@ export const projects = [
         {
             url: "/assets/AmbisonicspaceINstallperson, 2 small.jpg",
             title: "",
-            description: "Installation view: The Royal Danis Art Academy, Copenhagen.",
-            alt: "Installation view: The Royal Danis Art Academy, Copenhagen."
+            description: "Installation view: The Royal Danish Art Academy, Copenhagen.",
+            alt: "Installation view: The Royal Danish Art Academy, Copenhagen."
         },
     ]
   },
@@ -163,7 +163,7 @@ export const projects = [
         category: "installations",
         year: "2020",
         medium: "Film installation",
-        description: "Filmed in Shillong, India, this video work follows three visually impaired individuals who navigate their surroundings using echolocation—seeing through sound, touch, and movement. Rather than framing blindness as a disability, the project explores it as a distinct way of experiencing the world, one that offers deeper intimacy and connection than vision alone. The film accompanies the protagonists as they become the first group of visually impaired hikers to cross Meghalaya’s Living Root Bridge, climb the region’s iconic tree huts, and traverse dense jungle. Their journey challenges cultural perceptions of sight, ability, and independence, revealing new ways of sensing and inhabiting space.\n" +
+        description: "Filmed in Shillong, India, this video work follows three visually impaired individuals who navigate their surroundings using echolocation, seeing through sound, touch, and movement. Rather than framing blindness as a disability, the project explores it as a distinct way of experiencing the world, one that offers deeper intimacy and connection than vision alone. The film accompanies the protagonists as they become the first group of visually impaired hikers to cross Meghalaya’s Living Root Bridge, climb the region’s iconic tree huts, and traverse dense jungle. Their journey challenges cultural perceptions of sight, ability, and independence, revealing new ways of sensing and inhabiting space.\n" +
             "\n" + "The work have been shown at the \"20 Years Retrospective of Experimental Video Art Exhibition, Thai-European Friendship\", Bangkok art and culture centre, Bankok, Thailand (2023), Filmkunstskolen i Kabelvåg, Lofoten (2023), College of enginering, design, art & technology, Makerere University, Kampala, Uganda (2022), SKAP 2022, Sabanci University, Faculity of Arts and Social Sciences, Istanbul, Turkey (2022), The Art Academy in Bergen (2021) and Ars Electronica Festival in Linz, Austria (2020).\n\n" +
             "Collaboration with Maria Puenchir, Benister Kharpour, Thomas Tajo, Jones Pointing, Sonia Hage, Christopher Logan and Mikkel Koyher.",
         coverImage: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
@@ -196,7 +196,7 @@ export const projects = [
         category: "installations",
         year: "2021",
         medium: "Film installation",
-        description: "Listening and Navigation is a series consisting of different intermedia installations exploring human echolocation as both a navigational skill and an alternative way of perceiving the world. Six transducer speakers, connected through multiple amplifiers and channels, transmit vibrations through materials like wood and glass, allowing visitors to experience sound physically as well as aurally. Live field recordings follow Maria Puenchir navigating snowy forests in Trondheim using echolocation, while a drone tracks their movements from above—machine and human simultaneously finding their way through the landscape. The work invites audiences into a world where hearing becomes a form of vision, and where echoes form an existential dialogue with the environment.\n\n" +
+        description: "Listening and Navigation is a series consisting of different intermedia installations exploring human echolocation as both a navigational skill and an alternative way of perceiving the world. Six transducer speakers, connected through multiple amplifiers and channels, transmit vibrations through materials like wood and glass, allowing visitors to experience sound physically as well as aurally. Live field recordings follow Maria Puenchir navigating snowy forests in Trondheim using echolocation, while a drone tracks their movements from above, machine and human simultaneously finding their way through the landscape. The work invites audiences into a world where hearing becomes a form of vision, and where echoes form an existential dialogue with the environment.\n\n" +
             "The works have been shown at Khalil Sakakini Cultural Center, Ramallah, Palestine (2022), Aarhus Artspace, Aarhus, Denmark (2020), KLP, Teknobyen, Trondheim, Norway (2020), Den Frie Utstillings Bygning, Copenhagen, Denmark (2019), Galleri KIT, The Art Academy in Trondheim, Norway (2021, 2019, 2018)."+ "\n\n" +"Collaborators: Maria Puenchir, Mikkel Konyher, Trygve Waagen, Emiel Huijes, Fatuma Abdi, Joel Vide Hynsjö and Ingunn Schumann Mosand.",
         coverImage: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
         images: [
@@ -245,7 +245,7 @@ export const projects = [
     category: "performances",
     year: "2024",
     medium: "Live performance",
-    description: "Created for the J.T. Lundbye Festival in Kalundborg, Denmark, Sindre was a cross-disciplinary performance combining live music, spoken word, and large-scale video projections. Conceived by composer and musician Jesper Balslev, the piece brought together a team of artists to celebrate Lundbye’s birthday with a site-specific concert experience. My contribution was the visual dimension - a 5 × 14 metre projection mapping that enveloped the space in shifting imagery, merging seamlessly with the music and narration to create an immersive, multi-sensory encounter.\n\n" +
+    description: "Created for the J.T. Lundbye Festival in Kalundborg, Denmark, Sindre was a cross-disciplinary performance combining live music, spoken word, and large-scale video projections. Conceived by composer and musician Jesper Balslev, the piece brought together a team of artists to celebrate Lundbye’s birthday with a site-specific concert experience. My contribution was the visual dimension: a 5 × 14 metre projection mapping that enveloped the space in shifting imagery, merging seamlessly with the music and narration to create an immersive, multi-sensory encounter.\n\n" +
         "Collaboration with Jesper Balslev, Samira Dayyani, Morten Grønvad, Lars Emil Fode, Martin Kejser, Marianne Glynstrup, Rasmus Satto and Mina Paasche. ",
     coverImage: "/assets/IMG_1354, small.jpg",
     images: [
