@@ -2,7 +2,7 @@
 export const artistInfo = {
   name: "Mina Paasche",
   title: "Visual Artist",
-  location: "Copenhagen, Denmark",
+  location: "Copenhagen • Denmark",
   bio: "Norwegian visual artist exploring the intersection of light, form, and emotion through various mediums including painting, photography, and installation work.",
   email: "Minapaasche@gmail.com",
   social: {
