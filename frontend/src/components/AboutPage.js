@@ -56,14 +56,16 @@ const AboutPage = () => {
                         />
                         <div className="body-text max-w-2xl mx-auto mt-6 fade-in-up fade-in-up-delay-2" style={{ textAlign: 'left' }}>
                             <p>
-                                Norwegian born Mina Paasche (1988) holds a Bachelor of Fine Arts from The Art Academy in Trondheim (NTNU) and a Master of Fine Arts from The Art Academy in Bergen (KMD). She also has a Master in Social Work from Aalborg University in Copenhagen (AAU) and a Bachelor from University College Copenhagen (KP). Previously, she has studied art at Holbæk Art Academy and photography and VJ at Engelsholm College of Art and Music in Denmark.
+                                Mina Paasche (b. 1988, Norway) is an interdisciplinary artist working at the intersection of moving image, sound, performance, installation, and social practice. With a background spanning fine arts, photography, live visuals and social work, Paasche’s artistic research bridges ethnography, technology, and experimental forms of storytelling.
+                                Her projects often unfold as collaborative and site-specific works, ranging from immersive audiovisual installations and performances to documentary-based film and photographic explorations. Through these practices, Paasche investigates questions of identity, community, perception, and the politics of visibility, often reconfiguring spaces—whether a gallery, a theatre, or a private living room—into temporary environments for collective experience and reflection.
                             </p>
-                            <p>
-                                Paasche works within the field of artistic research and combines art, cultural probes, ethnography and technology. She has worked in various media including film, video, sound, installation, painting, photography and live performances which have been exhibited at a number of exhibitions both national and internationally at performance and media arts festivals, institutions and galleries.
+                            <p><br/>
+                                Paasche holds a Master of Fine Arts from the Art Academy in Bergen (KMD), Bachelor of Fine Arts from the Art Academy in Trondheim (NTNU), a Master in Social Work from Aalborg University (AAU), and a Bachelor in Social work from University College Copenhagen (KP). She previously studied at Holbæk Art Academy and Engelsholm College of Art and Music.
+
                             </p> <br/>
                             <p>
-                                <strong>Selected references:</strong><br />
-                                Room 61, KMD, Bergen (2023), The sculptural garden, College of engineering, design, art & technology, Makerere University, Kampala, Uganda (2022). Pride Art, Copenhagen Pride, Nytorv, Copenhagen, Denmark (2022), SKAP 2022, Sabanci University, Faculty of Arts and Social Sciences, Istanbul, Turkey (2022), Khalil Sakakini Cultural Center, Ramallah, Palestine (2022), Meta.Morph, Trondheim (2022), FLASH, light Biennale, Helsinki (2021), Factory Light Festival, Asker (2021), The Spring Exhibition at Kunsthall Charlottenborg, Copenhagen (2021), Ars Electronica Festival in Linz, Austria (2020), Aarhus Artspace (2020), Gallery Monitor, Gothenburg (2020), Rosendal Teater, Trondheim (2020), Den Frie Utstillings Bygning, Copenhagen (2019, 2016), CPH:DOX Audio:visual (2019), Louisiana Museum of Modern Art (2018), Carpark festival (2018), Plugout festival (2017), modstrøm festival (2017).
+
+                                Her work has been presented internationally at festivals, biennales, museums, and artist-run spaces, including Kunsthall Trondheim (2025); BACC, Bangkok, Thailand (2023); Rom 61, KMD, Bergen (2023), Makerere University, Kampala (2022); Pride Art, Copenhagen (2022); Khalil Sakakini Cultural Center, Ramallah (2022); SKAP, Sabanci University, Istanbul (2022); Meta.Morph, Trondheim (2022); FLASH Light Biennale, Helsinki (2021); Kunsthall Charlottenborg, Copenhagen (2021); Ars Electronica, Linz (2020); Rosendal Theatre, Trondheim (2024, 2020); Den Frie, Copenhagen (2019, 2016); and Louisiana Museum of Modern Art (2018), among others..
                             </p>
                         </div>
                     </div>
