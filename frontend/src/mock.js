@@ -16,17 +16,20 @@ export const projectCategories = [
   {
     id: "installations",
     name: "Installations",
-    description: "Interactive and immersive art experiences."
+    description: "Interactive and immersive art experiences.",
+      alt: "Interactive and immersive art experiences."
   },
   {
     id: "performances",
     name: "Performances",
-    description: "Live and participatory art events."
+    description: "Live and participatory art events.",
+      alt: "Live and participatory art events."
   },
   {
     id: "Photography",
     name: "Photography",
-    description: "Experimental and narrative video works."
+    description: "Experimental and narrative video works.",
+      alt: "Experimental and narrative video works."
   }
 ];
 
@@ -223,7 +226,7 @@ export const projects = [
                 alt:   "Still from “I Was Blind Until I Met You”, 2019"
             },
             {
-                url: "/assets/EditedbyMina4_MikkeMarhuagGalleriKITl, small.jpg",
+                url: "/assets/Håndmalt objekt, REDIGERT til hjemmeside.jpg",
                 title: "",
                 description: "Handpainted object: “For those who can see”, 2018. Photo by Mikkel Marhaug.",
                 alt: "Handpainted object: “For those who can see”, 2018. Photo by Mikkel Marhaug."
@@ -249,22 +252,26 @@ export const projects = [
       {
         url: "/assets/IMG_1354, small.jpg",
         title: "",
-        description: "Skolen på Herredsåsen, Kalundborg, Denmark."
+        description: "Skolen på Herredsåsen, Kalundborg, Denmark.",
+          alt: "Skolen på Herredsåsen, Kalundborg, Denmark."
       },
         {
             url: "/assets/Koncert_Jesper_1.sept_(02), small.jpg",
             title: "",
-            description: "Martin Kejser on Klarinette and Samira Dayyani on cello."
+            description: "Martin Kejser on Klarinette and Samira Dayyani on cello.",
+            alt: "Martin Kejser on Klarinette and Samira Dayyani on cello."
         },
         {
             url: "/assets/Koncert_Jesper_1.sept_(14), small.jpg",
             title: "",
-            description: "Lars Emil Foder as narrator."
+            description: "Lars Emil Foder as narrator.",
+            alt: "Lars Emil Foder as narrator."
         },
         {
             url: "/assets/Koncert_Jesper_1.sept_(17), small.jpg",
             title: "",
-            description: "Marianne Reimer Glynstrup on vocals."
+            description: "Marianne Reimer Glynstrup on vocals.",
+            alt: "Marianne Reimer Glynstrup on vocals."
         },
     ]
   },
@@ -281,38 +288,45 @@ export const projects = [
             {
                 url: "/assets/_DVH9096,small.jpg",
                 title: "",
-                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen.",
+                alt: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
             },
 
             {
                 url: "/assets/-RVptHIQ, small.jpg",
                 title: "",
-                description: "Stillverket 1 (2021). Photo by Juliane Schütz."
+                description: "Stillverket 1 (2021). Photo by Juliane Schütz.",
+                alt: "Stillverket 1 (2021). Photo by Juliane Schütz."
             },
             {
                 url: "/assets/HTRWheimdal2022,small.jpg",
                 title: "",
-                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen.",
+                alt: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
             },
             {
                 url: "/assets/_DVH9067,small.jpg",
                 title: "",
-                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen.",
+                alt: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
             },
             {
                 url: "/assets/HandsportfolioHWTRjuliana.jpg",
                 title: "",
-                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Juliane Schütz."
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Juliane Schütz.",
+                alt: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Juliane Schütz."
             },
             {
                 url: "/assets/i8P4CHiQ.jpeg",
                 title: "",
-                description: "Stillverket 1 (2021). Photo by Juliane Schütz."
+                description: "Stillverket 1 (2021). Photo by Juliane Schütz.",
+                alt: "Stillverket 1 (2021). Photo by Juliane Schütz."
             },
             {
                 url: "/assets/IMG_2827, small.jpg",
                 title: "",
-                description: "Kunsthall Trondheim (2025). Photo by Mina Paasche.\n"
+                description: "Kunsthall Trondheim (2025). Photo by Mina Paasche.",
+                alt: "Kunsthall Trondheim (2025). Photo by Mina Paasche."
             },
         ]
     },
@@ -331,19 +345,22 @@ export const projects = [
       {
         url: "/assets/IMG_3262, small.jpg",
         title: "",
-        description: "The Grand Hall, The Old Mine at Løkken Værk, Trondheim (2021)."
+        description: "The Grand Hall, The Old Mine at Løkken Værk, Trondheim (2021).",
+          alt: "The Grand Hall, The Old Mine at Løkken Værk, Trondheim (2021)."
       },
 
         {
             url: "/assets/IMG_2229.jpg",
             title: "",
-            description: "Amalie Fonfara."
+            description: "Amalie Fonfara.",
+            alt: "Amalie Fonfara."
         },
 
         {
             url: "/assets/IMG_2454, small.jpg",
             title: "",
-            description: "Mikkel Konyher\n\nPhoto by Juliane Schütz."
+            description: "Mikkel Konyher\n\nPhoto by Juliane Schütz.",
+            alt: "Mikkel Konyher\n\nPhoto by Juliane Schütz."
 
         },
 
@@ -364,17 +381,20 @@ export const projects = [
       {
         url: "/assets/_A8A9816, small.jpg",
         title: "",
-        description: "Installation view."
+        description: "Installation view.",
+          alt: "Installation view."
       },
         {
             url: "/assets/_A8A9878,small.jpg",
             title: "",
-            description: "Smoke, videprojections and textiles."
+            description: "Smoke, videprojections and textiles.",
+            alt: "Smoke, videprojections and textiles."
         },
         {
             url: "/assets/_A8A9939,small.jpg",
             title: "",
-            description: "The audience could walk freely trough the space during the perfromance."
+            description: "The audience could walk freely trough the space during the performance.",
+            alt: "The audience could walk freely trough the space during the performance."
         },
     ]
   },
@@ -382,7 +402,7 @@ export const projects = [
     id: "Floating Greenhouse",
     title: "Floating Greenhouse",
     category: "performances",
-    year: "2021",
+    year: "2020",
     medium: "Audiovisual performance",
     description: "On the waters of Trondheimsfjorden, a floating greenhouse becomes both stage and vessel. Live visuals merge with ambient electronic compositions and shamanistic ritual elements, transforming the structure into a drifting ceremonial space. The glass walls catch reflections of sky and water, while layered soundscapes ripple outward into the fjord. This hybrid of performance, installation, and ritual invites audiences to experience the fjord as a living collaborator—its light, movement, and acoustics shaping the event in real time. The work blurs the boundaries between land and water, nature and architecture, technology and spirituality.\n\n" +
         "Collaboration with: Amalia Fonfara, Ambient Light and Pallas Kat.  ",
@@ -391,17 +411,20 @@ export const projects = [
       {
         url: "/assets/083A1548,small.jpg",
         title: "",
-        description: "Untitled"
+        description: "Amalia Fonfara.",
+          alt: "Amalia Fonfara."
       },
         {
             url: "/assets/083A1576,small.jpg",
             title: "",
-            description: "Untitled"
+            description: "Installation view, glassboat.",
+            alt: "Installation view, glassboat."
         },
         {
             url: "/assets/083A1584,small.jpg",
             title: "",
-            description: "Untitled"
+            description: "Ambient Light.\n\nPhoto by Maiken Hauksdatter.",
+            alt: "Ambient Light.\n\nPhoto by Maiken Hauksdatter."
         },
 
     ]
@@ -420,17 +443,20 @@ export const projects = [
       {
         url: "/assets/GundelachSentrumSceneJonathanVivaasKise.1.JPG",
         title: "",
-        description: "Untitled"
+        description: "Sentrum Scene, Oslo, Norway.",
+          alt: "Sentrum Scene, Oslo, Norway."
       },
         {
             url: "/assets/GundelachSentrumSceneJonathanVivaasKise.3.JPG",
             title: "",
-            description: "Untitled"
+            description: "Gundelach.",
+            alt: "Gundelach."
         },
         {
             url: "/assets/GundelachSentrumSceneJonathanVivaasKise.4.JPG",
             title: "",
-            description: "Untitled"
+            description: "Live visuals on a floating screen.",
+            alt: "Live visuals on a floating screen."
         },
     ]
   },
@@ -450,32 +476,38 @@ export const projects = [
             {
                 url: "/assets/BogWSkjermbilde 2020-11-30 kl. 16.28.52, small.jpg",
                 title: "",
-                description: "untitled"
+                description: "Becoming Water",
+                alty: "Becoming Water"
             },
             {
                 url: "/assets/Biene3bogw, small.jpg",
                 title: "",
-                description: "untitled"
+                description: "Interference bees",
+                alt: "Interference bees"
             },
             {
                 url: "/assets/BogWUlvetimen, small1.jpg",
                 title: "",
-                description: "untitled"
+                description: "Solitude",
+                alt: "Solitude"
             },
             {
                 url: "/assets/missyHummelvikBogW, small.jpg",
                 title: "",
-                description: "untitled"
+                description: "The rain",
+                alt: "The rain"
             },
             {
                 url: "/assets/PelsjegerenBogW, small.jpg",
                 title: "",
-                description: "untitled"
+                description: "Small Oracle",
+                alt: "Small Oracle"
             },
             {
                 url: "/assets/TodalenBogW, small.jpg",
                 title: "",
-                description: "untitled"
+                description: "Trollheimen",
+                alt: "Trollheimen"
             },
         ]
     },
@@ -484,20 +516,23 @@ export const projects = [
         id: "Born to be Free",
         title: "Born to be Free",
         category: "Photography",
-        year: "2020",
+        year: "2022",
         medium: "Photography",
-        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        description: "A portrait of my friend, the activist and artist Ivy Rosenauer. Born to be Free is both an intimate depiction and a celebration of Ivy’s strength, vulnerability, and self-determination. The work reflects on identity, friendship, and the freedom to exist unapologetically.\n\n" +
+            "Exhibited at Bergen Kjøtt, Bergen, Norway, 2022.",
         coverImage: "/assets/BorntoBeFree,2022,MinaPaascheLOWQ, small.jpg",
         images: [
             {
                 url: "/assets/BorntoBeFree,2022,MinaPaascheLOWQ, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Ivy Rosenauer",
+                alt: "Ivy Rosenauer"
             },
             {
                 url: "/assets/17, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Installation view, Bergen Kjøtt.",
+                alt: "Installation view, Bergen Kjøtt."
             },
         ]
     },
@@ -506,40 +541,47 @@ export const projects = [
         id: "Potraits",
         title: "Portraits",
         category: "Photography",
-        year: "2020",
+        year: "Ongoing",
         medium: "Photography",
-        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        description: "Over the years, I have created a series of portraits that move between intimacy and performance. Rooted in performative photography, these works explore identity as something fluid and staged, yet deeply personal. Each portrait becomes both a document and a gesture — an encounter where the sitter’s presence, vulnerability, and strength unfold in front of the lens.",
         coverImage: "/assets/_LMP4031, small.jpg",
         images: [
             {
                 url: "/assets/_LMP4031, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Mike Woodbridge, 2022.",
+                alt: "Mike Woodbridge, 2022."
             },
             {
                 url: "/assets/Bidrag 3. Resting Bitch Face, Mina Paasche, 2020, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Qianhui Qian, 2020.",
+                alt: "Qianhui Qian, 2020."
             },
             {
                 url: "/assets/_LMP7618, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Henna Nerg, 2023.",
+                alt: "Henna Nerg, 2023."
             },
-            {
-                url: "/assets/_LMP7350,small.jpg",
-                title: "",
-                description: "Untitled"
-            },
-            {
-                url: "/assets/_LMP6432, small.jpg",
-                title: "",
-                description: "Untitled"
-            },
+
             {
                 url: "/assets/MathiasBroe_redigert, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Mathias Broe, 2019.",
+                alt: "Mathias Broe, 2019."
+            },
+            {
+                url: "/assets/Dominique Nachi, cosmopolitan girl, 2023 small.jpg",
+                title: "",
+                description: "Dominique Nachi, 2023.",
+                alt: "Dominique Nachi, 2023."
+            },
+            {
+                url: "/assets/Sunday, 2022, Mina Paasche, small.jpg",
+                title: "",
+                description: "Frederik Lund, 2022",
+                alt: "Frederik Lund, 2022"
             },
         ]
     },
@@ -550,18 +592,22 @@ export const projects = [
         category: "Photography",
         year: "2022",
         medium: "Photography",
-        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        description: "Group exhibition presenting works by LGBTQIA+ artists, creating a shared space for reflection on identity, gender, and sexuality. The exhibition unfolded through visual art, events, and public engagement during Copenhagen Pride Week.\n\n" +
+            "Exhibiting artist: Birk Thomassen, Bjørn Ignatius Øckenholt, Erik André Nes, Frida Rindal, Henrik Dencker, Hugo Arruda, Jerry Adder, Johan Rauhe, Kasper Knudsen Muusholm, Mina Paasche, Picturing PreP, Richard Kemp, Sonny Schneider and Ulrik Mikkelsen.\n\n" +
+            "Curated by Rasmus Wegner and Mikkel Kristensen.",
         coverImage: "/assets/5821EB7E-569A-4EFC-8028-7EA45FF58F68, small.jpg",
         images: [
             {
                 url: "/assets/5821EB7E-569A-4EFC-8028-7EA45FF58F68, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Installation view Pride Art Copenhagen.",
+                alt: "Installation view Pride Art Copenhagen."
             },
             {
                 url: "/assets/PrinsLise,2021,MinaPaascheLOWQ.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Model: Lise Ulvedahl Carlsen.",
+                alt: "Model: Lise Ulvedahl Carlsen."
             },
         ]
     },
@@ -572,23 +618,27 @@ export const projects = [
         category: "Photography",
         year: "2020",
         medium: "Photography",
-        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        description: "During the pandemic, Street View was reinstalled in a private apartment in Oslo, where the eight photographs transformed a living room into a temporary exhibition space. By moving the work from the gallery window to the intimacy of a home, the project explored how art can reconfigure domestic space and create new ways of sharing and experiencing visual culture when public exhibitions are restricted.\n\n" +
+            "Curated by Christina Nilseng and Håkon Lillegraven.",
         coverImage: "/assets/DSC_9702.jpg",
         images: [
             {
                 url: "/assets/DSC_9702.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Installation view, Geiten Visningsrom, 6/8 and 1/8.",
+                alt: "Installation view, Geiten Visningsrom, 6/8 and 1/8."
             },
             {
                 url: "/assets/DSC_9739.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Installation view, Geiten Visningsrom 3/8 and 2/8",
+                alt: "Installation view, Geiten Visningsrom 3/8 and 2/8"
             },
             {
                 url: "/assets/DSC09289, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Installation view, Geiten Visningsrom, Slide show.",
+                alt: "Installation view, Geiten Visningsrom, Slide show."
             },
         ]
     },
@@ -598,20 +648,23 @@ export const projects = [
         id: "Street View",
         title: "Street View",
         category: "Photography",
-        year: "2020",
+        year: "2019",
         medium: "Photography",
-        description: "A walk-through forest made of vertical LED tubes simulating natural light cycles.",
+        description: "AExhibited at Trondheim Pride, Street View unfolds as a single large-scale photograph composed of eight prints on paper, installed in a gallery window facing the street. The work bridges inside and outside, turning the exhibition space into a site of visibility and encounter, where queer presence meets the public sphere.\n\n" +
+            "Gallery KITX, Trondheim.",
         coverImage: "/assets/Streetviewfullformat, small.jpg",
         images: [
             {
                 url: "/assets/Streetviewfullformat, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Copenhagen Pride 2017.",
+                alt: "Copenhagen Pride 2017."
             },
             {
                 url: "/assets/DSC00226, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Galleri KITX, The Art Academy in Trondheim, 2019.",
+                alt: "Galleri KITX, The Art Academy in Trondheim, 2019."
             },
         ]
     },
