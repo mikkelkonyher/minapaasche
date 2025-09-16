@@ -16,17 +16,17 @@ export const projectCategories = [
   {
     id: "installations",
     name: "Installations",
-    description: "Interactive and immersive art experiences"
+    description: "Interactive and immersive art experiences."
   },
   {
     id: "performances",
     name: "Performances",
-    description: "Live and participatory art events"
+    description: "Live and participatory art events."
   },
   {
     id: "Photography",
     name: "Photography",
-    description: "Experimental and narrative video works"
+    description: "Experimental and narrative video works."
   }
 ];
 
@@ -44,19 +44,19 @@ export const projects = [
       {
         url: "/assets/_LMP4226,small.jpg",
         title: "",
-        description: "Film still of contemporary dancer Susanne Engbo Andersen",
+        description: "Film still of contemporary dancer Susanne Engbo Andersen.",
           alt: "Film still of contemporary dancer Susanne Engbo Andersen"
       },
         {
             url: "/assets/Stillimage2,MinaPaasche2022,small.jpg",
             title: "",
-            description: "Film still and 3D printed sculptures",
-            alt: "Film still of contemporary dancer Susanne Engbo Andersen"
+            description: "Film still and 3D printed sculptures.",
+            alt: "Film still of contemporary dancer Susanne Engbo Andersen."
         },
         {
             url: "/assets/_LMP4213.small.jpg",
             title: "",
-            description: "nstallation view: Room 61, KMD, Bergen",
+            description: "nstallation view: Room 61, KMD, Bergen.",
             alt: "Installation view: Room 61, KMD, Bergen"
         },
 
@@ -78,7 +78,7 @@ export const projects = [
       {
         url: "/assets/AmbisonicIINstallation2022red, 1 small.jpg",
         title: "",
-        description: "Ambisonic space",
+        description: "Ambisonic space.",
           alt: "Ambisonic space"
       },
         {
@@ -102,20 +102,20 @@ export const projects = [
       {
         url: "/assets/Lifeline,small1.jpg",
         title: "",
-        description: "Corridor of light",
+        description: "Corridor of light.",
           alt: "Corridor of light"
       },
 
         {
             url: "/assets/lifeline small 2.jpg",
             title: "",
-            description: "Light, Smoke, Sound",
+            description: "Light, Smoke, Sound.",
             alt : "Light, Smoke, Sound"
         },
         {
             url: "/assets/lifeline small2.jpg",
             title: "",
-            description: "Suomenlinna fortress by the sea",
+            description: "Suomenlinna fortress by the sea.",
             alt: "Suomenlinna fortress by the sea"
         },
 
@@ -141,14 +141,14 @@ export const projects = [
             {
                 url: "/assets/_LMP2933,small.jpg",
                 title: "",
-                description: "Projectionmapping, video, sound and scent",
+                description: "Projectionmapping, video, sound and scent.",
                 alt: "Projectionmapping, video, sound and scent"
             },
 
             {
                 url: "/assets/_LMP2835,small.jpg",
                 title: "",
-                description: "”The bakery” at Dikemark psyciatric hospital, Asker, Norway",
+                description: "”The bakery” at Dikemark psyciatric hospital, Asker, Norway.",
                 alt: "”The bakery” at Dikemark psyciatric hospital, Asker, Norway"
             },
         ]
@@ -168,20 +168,20 @@ export const projects = [
             {
                 url: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
                 title: "",
-                description: "Lady Hydary park, Shillong, India",
+                description: "Lady Hydary park, Shillong, India.",
                 alt: "Lady Hydary park, Shillong, India"
             },
             {
                 url: "/assets/Dag 01 Parken & Kirken A.00_04_28_14.Still006, small.jpg",
                 title: "",
-                description: "Touching the bamboo trees",
+                description: "Touching the bamboo trees.",
                 alt: "Touching the bamboo trees"
             },
 
             {
                 url: "/assets/Dag 01 Parken & Kirken C.00_24_08_11.Still001, small.jpg",
                 title: "",
-                description: "The Cathedral Catholic Church in Shillong",
+                description: "The Cathedral Catholic Church in Shillong.",
                 alt: "The Cathedral Catholic Church in Shillong"
             },
         ]
@@ -200,29 +200,33 @@ export const projects = [
             {
                 url: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
                 title: "",
-                description: " Aarhus Artspace, Aarhus, Denmark (2020)",
+                description: " Aarhus Artspace, Aarhus, Denmark (2020).",
                 alt: " Aarhus Artspace, Aarhus, Denmark (2020)"
             },
             {
                 url: "/assets/DSC02703, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "KLP, Teknobyen, Trondheim, Norway (2019-2020).",
+                alt: "KLP, Teknobyen, Trondheim, Norway (2019-2020)"
             },
 
             {
                 url: "/assets/Lydregn2021GalleriKITINstall,small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Galleri KIT, The Art Academy in Trondheim, Norway (2021).",
+                alt: "Galleri KIT, The Art Academy in Trondheim, Norway (2021)"
             },
             {
                 url: "/assets/ScreenshotIwasblind,small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Still from “I Was Blind Until I Met You”, 2019.",
+                alt:   "Still from “I Was Blind Until I Met You”, 2019"
             },
             {
                 url: "/assets/EditedbyMina4_MikkeMarhuagGalleriKITl, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Handpainted object: “For those who can see”, 2018. Photo by Mikkel Marhaug.",
+                alt: "Handpainted object: “For those who can see”, 2018. Photo by Mikkel Marhaug."
             },
         ]
     },
@@ -245,22 +249,22 @@ export const projects = [
       {
         url: "/assets/IMG_1354, small.jpg",
         title: "",
-        description: "Untitled"
+        description: "Skolen på Herredsåsen, Kalundborg, Denmark."
       },
         {
             url: "/assets/Koncert_Jesper_1.sept_(02), small.jpg",
             title: "",
-            description: "Untitled"
+            description: "Martin Kejser on Klarinette and Samira Dayyani on cello."
         },
         {
             url: "/assets/Koncert_Jesper_1.sept_(14), small.jpg",
             title: "",
-            description: "Untitled"
+            description: "Lars Emil Foder as narrator."
         },
         {
             url: "/assets/Koncert_Jesper_1.sept_(17), small.jpg",
             title: "",
-            description: "Untitled"
+            description: "Marianne Reimer Glynstrup on vocals."
         },
     ]
   },
@@ -271,44 +275,44 @@ export const projects = [
         category: "performances",
         year: "2023",
         medium: "Interactive performance",
-        description: "In ‘How to read water’ dance artist Anna Thu Schmidt, musician Thea Ellingsen Grant, and visual artist/VJ Mina Paasche create a multidisciplinary performance experience and invite you into a timeless and meditative space. ‘How to read water’ takes inspiration from the relationship between the human body and the ocean. The connection one feels to the ocean is translated to a connection between performer and audience.",
+        description: "This collaboration have taken form as indoor and outdoor perfromances, interactive laboratories, installations, recidencies and exhibitions, and have been shown at Kunsthall Trondheim, Tråånte, Norway (2025), Rosendal Theatre, Trondheim, Norway (2024), E&G Theatre, Lofoten, Norway (2024), Mausund, Norway (2024), Fossekleiva kultursenter and Berger museum, Fossekleiva, Norway (2023), Meta.morph at Heimdal Kunstforening, Trondheim, Norway (2022), Nils Aas Kunstverksted, Inderøy (2022), Trondheim Fjord, Norway (2021) and Stillverk 1 Trondheim, Norway (2021).",
         coverImage: "/assets/_DVH9096,small.jpg",
         images: [
             {
                 url: "/assets/_DVH9096,small.jpg",
                 title: "",
-                description: "Interactive session"
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
             },
 
             {
                 url: "/assets/-RVptHIQ, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Stillverket 1 (2021). Photo by Juliane Schütz."
             },
             {
                 url: "/assets/HTRWheimdal2022,small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
             },
             {
                 url: "/assets/_DVH9067,small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Daniel Hansen."
             },
             {
                 url: "/assets/HandsportfolioHWTRjuliana.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Heimdal Kunstforening, Trondheim, Norway (2022). Photo by Juliane Schütz."
             },
             {
                 url: "/assets/i8P4CHiQ.jpeg",
                 title: "",
-                description: "Untitled"
+                description: "Stillverket 1 (2021). Photo by Juliane Schütz."
             },
             {
                 url: "/assets/IMG_2827, small.jpg",
                 title: "",
-                description: "Untitled"
+                description: "Kunsthall Trondheim (2025). Photo by Mina Paasche.\n"
             },
         ]
     },
@@ -327,32 +331,20 @@ export const projects = [
       {
         url: "/assets/IMG_3262, small.jpg",
         title: "",
-        description: "Untitled"
+        description: "The Grand Hall, The Old Mine at Løkken Værk, Trondheim (2021)."
       },
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         {
             url: "/assets/IMG_2229.jpg",
             title: "",
-            description: "Untitled"
+            description: "Amalie Fonfara."
         },
 
         {
             url: "/assets/IMG_2454, small.jpg",
             title: "",
-            description: "Untitled"
+            description: "Mikkel Konyher\n\nPhoto by Juliane Schütz."
+
         },
 
 
@@ -372,17 +364,17 @@ export const projects = [
       {
         url: "/assets/_A8A9816, small.jpg",
         title: "",
-        description: "Untitled"
+        description: "Installation view."
       },
         {
             url: "/assets/_A8A9878,small.jpg",
             title: "",
-            description: "Untitled"
+            description: "Smoke, videprojections and textiles."
         },
         {
             url: "/assets/_A8A9939,small.jpg",
             title: "",
-            description: "Untitled"
+            description: "The audience could walk freely trough the space during the perfromance."
         },
     ]
   },
