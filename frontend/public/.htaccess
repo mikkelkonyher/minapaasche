@@ -1,0 +1,19 @@
+# Enable URL rewriting
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # If you deploy the site to a subdirectory, set the base here (e.g., /subdir/)
+  RewriteBase /
+
+  # Allow direct access to existing files and directories
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^ - [L]
+
+  # Redirect all other requests to index.html for SPA client-side routing
+  RewriteRule ^ index.html [L]
+</IfModule>
+
+# Fallback if mod_rewrite is unavailable: serve index.html
+<IfModule !mod_rewrite.c>
+  DirectoryIndex index.html
+</IfModule>
