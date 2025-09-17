@@ -28,7 +28,7 @@ export const projectCategories = [
   {
     id: "Photography",
     name: "Photography",
-    description: "Experimental and narrative video works.",
+    description: "Experimental and narrative photography.",
       alt: "Experimental and narrative video works."
   }
 ];
@@ -129,7 +129,7 @@ export const projects = [
         title: "Factory Light Festival – Projection Mapping at Dikemark",
         category: "installations",
         year: "2021",
-        medium: "Projection mapping installation",
+        medium: "Projection mapping",
         description: "As part of the Factory Light Festival’s de:LUX production in Asker, Norway, I collaborated with Nordic artists to create a site-specific projection mapping work within 48 hours. Using high-powered projectors and the historic façade of an abandoned 1905 psychiatric facility, the visuals transformed the architecture into a dynamic canvas of light, texture, and movement. The piece merged experimental visuals with sound to respond to the site’s layered history, reimagining the space through contemporary digital storytelling.\n" +
             "\n" +
             "Collaboration with Ilmari Pesonen and Anton Kaldal Ágústsson.",
@@ -244,7 +244,7 @@ export const projects = [
     title: "Sindre",
     category: "performances",
     year: "2024",
-    medium: "Live performance",
+    medium: "Audiovisual performance",
     description: "Created for the J.T. Lundbye Festival in Kalundborg, Denmark, Sindre was a cross-disciplinary performance combining live music, spoken word, and large-scale video projections. Conceived by composer and musician Jesper Balslev, the piece brought together a team of artists to celebrate Lundbye’s birthday with a site-specific concert experience. My contribution was the visual dimension: a 5 × 14 metre projection mapping that enveloped the space in shifting imagery, merging seamlessly with the music and narration to create an immersive, multi-sensory encounter.\n\n" +
         "Collaboration with Jesper Balslev, Samira Dayyani, Morten Grønvad, Lars Emil Fode, Martin Kejser, Marianne Glynstrup, Rasmus Satto and Mina Paasche. ",
     coverImage: "/assets/IMG_1354, small.jpg",
@@ -270,7 +270,7 @@ export const projects = [
         {
             url: "/assets/Koncert_Jesper_1.sept_(17), small.jpg",
             title: "",
-            description: "Marianne Reimer Glynstrup on vocals.",
+            description: "Marianne Reimer Glynstrup on vocals.\n\nPhoto by Michael Roepstorff.",
             alt: "Marianne Reimer Glynstrup on vocals."
         },
     ]
@@ -337,7 +337,7 @@ export const projects = [
     category: "performances",
     year: "2021",
     medium: "Site-specific performance",
-    description: "In an ongoing interdisciplinary collaboration, I created a large-scale projection and textile installation for a performance inside the Old Mine at Løkken Værk, Trondheim. Two semi-transparent sails hung from the mine’s historic wire system became shifting canvases for black-and-white video projections, blending with the cave walls so the minerals and stone subtly altered the imagery. The visuals—drawn from plants and microorganisms around Trondheim—shifted from naturalistic forms to glitchy abstractions, evoking both cave paintings and shadow theatre. Candlelight and a single replica oil lamp illuminated the space, heightening the interplay between light, shadow, and imagination.\n" +
+    description: "In an ongoing interdisciplinary collaboration, I created a large-scale projection and textile installation for a performance inside the Old Mine at Løkken Værk, Trondheim. Two semi-transparent sails hung from the mine’s historic wire system became shifting canvases for black and white video projections, blending with the cave walls so the minerals and stone subtly altered the imagery. The visuals drawn from plants and microorganisms around Trondheim shifted from naturalistic forms to glitchy abstractions, evoking both cave paintings and shadow theatre. Candlelight and a single replica oil lamp illuminated the space, heightening the interplay between light, shadow, and imagination.\n" +
         "\n" +
         "Collaboration with Amalia Fonfara, Jan Roar Gjersvold and Mikkel Konyher.",
     coverImage: "/assets/IMG_3262, small.jpg",
@@ -375,7 +375,7 @@ export const projects = [
     medium: "Audiovisual performance",
     description: "At Mørkerommet in Rosendal Theatre, I created and performed the live visuals for Myrull til min venn, an audiovisual evening that unfolded as an immersive, multi-sensory landscape. Moving images, layered textiles, and drifting smoke merged with the live concert by Pallas Kat, transforming the theatre space into a dreamlike, shifting environment." +
         " The visuals responded to the music in real time, expanding its emotional textures into a tactile visual dimension. Subtle patterns and flowing imagery evoked the softness and fragility of myrull (cottongrass), while moments of intensity drew the audience deeper into the performance’s intimate yet otherworldly atmosphere.\n\n" +
-        "Curated by Mishi Foltyn, the piece was both a concert and an installation—an invitation to linger within a space where sound, image, and material presence existed in constant dialogue.",
+        "Curated by Mishi Foltyn, the piece was both a concert and an installation and an invitation to linger within a space where sound, image, and material presence existed in constant dialogue.",
     coverImage: "/assets/_A8A9816, small.jpg",
     images: [
       {
@@ -404,7 +404,7 @@ export const projects = [
     category: "performances",
     year: "2020",
     medium: "Audiovisual performance",
-    description: "On the waters of Trondheimsfjorden, a floating greenhouse becomes both stage and vessel. Live visuals merge with ambient electronic compositions and shamanistic ritual elements, transforming the structure into a drifting ceremonial space. The glass walls catch reflections of sky and water, while layered soundscapes ripple outward into the fjord. This hybrid of performance, installation, and ritual invites audiences to experience the fjord as a living collaborator—its light, movement, and acoustics shaping the event in real time. The work blurs the boundaries between land and water, nature and architecture, technology and spirituality.\n\n" +
+    description: "On the waters of Trondheimsfjord, a floating greenhouse becomes both stage and vessel. Live visuals merge with ambient electronic compositions and shamanistic ritual elements, transforming the structure into a drifting ceremonial space. The glass walls catch reflections of sky and water, while layered soundscapes ripple outward into the fjord. This hybrid of performance, installation, and ritual invites audiences to experience the fjord as a living collaborator. It´s light, movement, and acoustics are shaping the event in real time. The work blurs the boundaries between land and water, nature and architecture, technology and spirituality.\n\n" +
         "Collaboration with: Amalia Fonfara, Ambient Light and Pallas Kat.  ",
     coverImage: "/assets/083A1548,small.jpg",
     images: [
@@ -417,8 +417,8 @@ export const projects = [
         {
             url: "/assets/083A1576,small.jpg",
             title: "",
-            description: "Installation view, glassboat.",
-            alt: "Installation view, glassboat."
+            description: "Installation view, glass boat/floating greenhouse.",
+            alt: "Installation view, glass boat/floating greenhouse."
         },
         {
             url: "/assets/083A1584,small.jpg",
@@ -437,7 +437,7 @@ export const projects = [
     year: "2019",
     medium: "Audiovisual performance",
     description: "For Gundelach’s largest solo performance to date, at Sentrum Scene during Red Bull Music Festival Oslo, I created and performed the live visual scenography. The concert was conceived as a conceptual, multi-sensory experience, where music, light, and image merged into a unified narrative.\n\n" +
-        "My visuals were designed to mirror the emotional arc of Gundelach’s setlist, translating his signature melancholic falsetto and noir-inspired production into moving imagery. Layered projections and generative visuals unfolded in real time, synchronised with the live sound. Inspired by the floral motifs and shifting moods of his My Frail Body project—a visual journey through flowers—the imagery evolved from subtle, dreamlike abstractions to intense, saturated sequences, enveloping the stage and audience in an immersive atmosphere.",
+        "My visuals were designed to mirror the emotional arc of Gundelach’s setlist, translating his signature melancholic falsetto and noir-inspired production into moving imagery. Layered projections and generative visuals unfolded in real time, synchronised with the live sound. Inspired by the floral motifs and shifting moods of his My Frail Body project: a visual journey through flowers. The imagery evolved from subtle, dreamlike abstractions to intense, saturated sequences, enveloping the stage and audience in an immersive atmosphere.",
     coverImage: "/assets/GundelachSentrumSceneJonathanVivaasKise.1.JPG",
     images: [
       {
@@ -455,7 +455,7 @@ export const projects = [
         {
             url: "/assets/GundelachSentrumSceneJonathanVivaasKise.4.JPG",
             title: "",
-            description: "Live visuals on a floating screen.",
+            description: "Live visuals on a floating screen.\n\nPhoto by Jonathan Vivaas Kise.",
             alt: "Live visuals on a floating screen."
         },
     ]
@@ -468,45 +468,45 @@ export const projects = [
         category: "Photography",
         year: "2020, 2025",
         medium: "Photography",
-        description: "A hypnotic fusion of science fiction, deep-sea horror, in combination with photography and experimental cinema, The Outer Edge of Each Eye dissolves the boundaries between human, animal, and machine. Haunting imagery—frozen landscapes, insect wings, the hum of hidden machinery—shifts fluidly as time stretches and contracts. Nature reclaims its power, while an unseen presence lingers just beyond perception. Filmed across landscapes and botanical sites in Norway and Denmark, the work draws viewers into a world where the familiar transforms into something otherworldly and unknown.\n" +
+        description: "A hypnotic fusion of science fiction, deep-sea horror, in combination with photography and experimental cinema, The Outer Edge of Each Eye dissolves the boundaries between human, animal, and machine. Haunting imagery, frozen landscapes, insect wings, the hum of hidden machinery, shifts fluidly as time stretches and contracts. Nature reclaims its power, while an unseen presence lingers just beyond perception. Filmed across landscapes and botanical sites in Norway and Denmark, the work draws viewers into a world where the familiar transforms into something otherworldly and unknown.\n" +
             " \n" +
-            "Collaborations with: Mikkel Konyher, Siri Vinterly, Oscar Debbs, Nanna Klith Hougaard, Anaclara Talento, Per Stian Monsås, Lise Ulvedahl Carlsen, Ivu Rosenauer, Einar Grinde, Jan Roar Gjersvold, Phillip Göllner, Trygve Eiulf, Daniel Vincent Hansen and Sigrid Voll Bøyum.",
+            "Collaborations with: Mikkel Konyher, Siri Vinterly, Oscar Debbs, Nanna Klith Hougaard, Anaclara Talento, Per Stian Monsås, Lise Ulvedahl Carlsen, Ivy Rosenauer, Einar Grinde, Jan Roar Gjersvold, Phillip Göllner, Trygve Eiulf, Daniel Vincent Hansen and Sigrid Voll Bøyum.",
         coverImage: "/assets/BogWSkjermbilde 2020-11-30 kl. 16.28.52, small.jpg",
         images: [
             {
                 url: "/assets/BogWSkjermbilde 2020-11-30 kl. 16.28.52, small.jpg",
                 title: "",
-                description: "Becoming Water",
+                description: "Becoming Water.",
                 alty: "Becoming Water"
             },
             {
                 url: "/assets/Biene3bogw, small.jpg",
                 title: "",
-                description: "Interference bees",
+                description: "Interference bees.",
                 alt: "Interference bees"
             },
             {
                 url: "/assets/BogWUlvetimen, small1.jpg",
                 title: "",
-                description: "Solitude",
+                description: "Solitude.",
                 alt: "Solitude"
             },
             {
                 url: "/assets/missyHummelvikBogW, small.jpg",
                 title: "",
-                description: "The rain",
+                description: "The rain.",
                 alt: "The rain"
             },
             {
                 url: "/assets/PelsjegerenBogW, small.jpg",
                 title: "",
-                description: "Small Oracle",
+                description: "Small Oracle.",
                 alt: "Small Oracle"
             },
             {
                 url: "/assets/TodalenBogW, small.jpg",
                 title: "",
-                description: "Trollheimen",
+                description: "Trollheimen.",
                 alt: "Trollheimen"
             },
         ]
@@ -543,7 +543,7 @@ export const projects = [
         category: "Photography",
         year: "Ongoing",
         medium: "Photography",
-        description: "Over the years, I have created a series of portraits that move between intimacy and performance. Rooted in performative photography, these works explore identity as something fluid and staged, yet deeply personal. Each portrait becomes both a document and a gesture — an encounter where the sitter’s presence, vulnerability, and strength unfold in front of the lens.",
+        description: "Over the years, I have created a series of portraits that move between intimacy and performance. Rooted in performative photography, these works explore identity as something fluid and staged, yet deeply personal. Each portrait becomes both a document and a gesture. An encounter where the sitter’s presence, vulnerability, and strength unfold in front of the lens.",
         coverImage: "/assets/_LMP4031, small.jpg",
         images: [
             {
@@ -580,7 +580,7 @@ export const projects = [
             {
                 url: "/assets/Sunday, 2022, Mina Paasche, small.jpg",
                 title: "",
-                description: "Frederik Lund, 2022",
+                description: "Frederik Lund, 2022.",
                 alt: "Frederik Lund, 2022"
             },
         ]
@@ -650,14 +650,14 @@ export const projects = [
         category: "Photography",
         year: "2019",
         medium: "Photography",
-        description: "AExhibited at Trondheim Pride, Street View unfolds as a single large-scale photograph composed of eight prints on paper, installed in a gallery window facing the street. The work bridges inside and outside, turning the exhibition space into a site of visibility and encounter, where queer presence meets the public sphere.\n\n" +
+        description: "Exhibited at Trondheim Pride, Street View unfolds as a single large-scale photograph composed of eight prints on paper, installed in a gallery window facing the street. The work bridges inside and outside, turning the exhibition space into a site of visibility and encounter, where queer presence meets the public sphere.\n\n" +
             "Gallery KITX, Trondheim.",
         coverImage: "/assets/Streetviewfullformat, small.jpg",
         images: [
             {
                 url: "/assets/Streetviewfullformat, small.jpg",
                 title: "",
-                description: "Copenhagen Pride 2017.",
+                description: "Photo from Copenhagen Pride 2017.",
                 alt: "Copenhagen Pride 2017."
             },
             {
