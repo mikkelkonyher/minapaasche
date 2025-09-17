@@ -157,38 +157,7 @@ export const projects = [
         ]
     },
 
-    {
-        id: "A bundle of echoes",
-        title: "A Bundle of Echoes",
-        category: "installations",
-        year: "2020",
-        medium: "Film installation",
-        description: "Filmed in Shillong, India, this video work follows three visually impaired individuals who navigate their surroundings using echolocation, seeing through sound, touch, and movement. Rather than framing blindness as a disability, the project explores it as a distinct way of experiencing the world, one that offers deeper intimacy and connection than vision alone. The film accompanies the protagonists as they become the first group of visually impaired hikers to cross Meghalaya’s Living Root Bridge, climb the region’s iconic tree huts, and traverse dense jungle. Their journey challenges cultural perceptions of sight, ability, and independence, revealing new ways of sensing and inhabiting space.\n" +
-            "\n" + "The work have been shown at the \"20 Years Retrospective of Experimental Video Art Exhibition, Thai-European Friendship\", Bangkok art and culture centre, Bankok, Thailand (2023), Filmkunstskolen i Kabelvåg, Lofoten (2023), College of enginering, design, art & technology, Makerere University, Kampala, Uganda (2022), SKAP 2022, Sabanci University, Faculity of Arts and Social Sciences, Istanbul, Turkey (2022), The Art Academy in Bergen (2021) and Ars Electronica Festival in Linz, Austria (2020).\n\n" +
-            "Collaboration with Maria Puenchir, Benister Kharpour, Thomas Tajo, Jones Pointing, Sonia Hage, Christopher Logan and Mikkel Koyher.",
-        coverImage: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
-        images: [
-            {
-                url: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
-                title: "",
-                description: "Lady Hydary park, Shillong, India.",
-                alt: "Lady Hydary park, Shillong, India"
-            },
-            {
-                url: "/assets/Dag 01 Parken & Kirken A.00_04_28_14.Still006, small.jpg",
-                title: "",
-                description: "Touching the bamboo trees.",
-                alt: "Touching the bamboo trees"
-            },
 
-            {
-                url: "/assets/Dag 01 Parken & Kirken C.00_24_08_11.Still001, small.jpg",
-                title: "",
-                description: "The Cathedral Catholic Church in Shillong.",
-                alt: "The Cathedral Catholic Church in Shillong"
-            },
-        ]
-    },
 
     {
         id: "Listening and Navigation",
@@ -233,7 +202,38 @@ export const projects = [
             },
         ]
     },
+    {
+        id: "A bundle of echoes",
+        title: "A Bundle of Echoes",
+        category: "installations",
+        year: "2020",
+        medium: "Film installation",
+        description: "Filmed in Shillong, India, this video work follows three visually impaired individuals who navigate their surroundings using echolocation, seeing through sound, touch, and movement. Rather than framing blindness as a disability, the project explores it as a distinct way of experiencing the world, one that offers deeper intimacy and connection than vision alone. The film accompanies the protagonists as they become the first group of visually impaired hikers to cross Meghalaya’s Living Root Bridge, climb the region’s iconic tree huts, and traverse dense jungle. Their journey challenges cultural perceptions of sight, ability, and independence, revealing new ways of sensing and inhabiting space.\n" +
+            "\n" + "The work have been shown at the \"20 Years Retrospective of Experimental Video Art Exhibition, Thai-European Friendship\", Bangkok art and culture centre, Bankok, Thailand (2023), Filmkunstskolen i Kabelvåg, Lofoten (2023), College of enginering, design, art & technology, Makerere University, Kampala, Uganda (2022), SKAP 2022, Sabanci University, Faculity of Arts and Social Sciences, Istanbul, Turkey (2022), The Art Academy in Bergen (2021) and Ars Electronica Festival in Linz, Austria (2020).\n\n" +
+            "Collaboration with Maria Puenchir, Benister Kharpour, Thomas Tajo, Jones Pointing, Sonia Hage, Christopher Logan and Mikkel Koyher.",
+        coverImage: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
+        images: [
+            {
+                url: "/assets/Still1 ABundleofEchoes,Mina Paasche, 2020, stillimage1, small.jpg",
+                title: "",
+                description: "Lady Hydary park, Shillong, India.",
+                alt: "Lady Hydary park, Shillong, India"
+            },
+            {
+                url: "/assets/Dag 01 Parken & Kirken A.00_04_28_14.Still006, small.jpg",
+                title: "",
+                description: "Touching the bamboo trees.",
+                alt: "Touching the bamboo trees"
+            },
 
+            {
+                url: "/assets/Dag 01 Parken & Kirken C.00_24_08_11.Still001, small.jpg",
+                title: "",
+                description: "The Cathedral Catholic Church in Shillong.",
+                alt: "The Cathedral Catholic Church in Shillong"
+            },
+        ]
+    },
 
 
 
