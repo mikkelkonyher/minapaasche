@@ -472,31 +472,7 @@ export const projects = [
         description: "Over the years, I have created a series of portraits that move between intimacy and performance. Rooted in performative photography, these works explore identity as something fluid and staged, yet deeply personal. Each portrait becomes both a document and a gesture. An encounter where the sitter’s presence, vulnerability, and strength unfold in front of the lens.",
         coverImage: "/assets/_LMP4031, small.jpg",
         images: [
-            {
-                url: "/assets/_LMP4031, small.jpg",
-                title: "",
-                description: "Mike Woodbridge, 2022.",
-                alt: "Mike Woodbridge, 2022."
-            },
-            {
-                url: "/assets/Bidrag 3. Resting Bitch Face, Mina Paasche, 2020, small.jpg",
-                title: "",
-                description: "Qianhui Qian, 2020.",
-                alt: "Qianhui Qian, 2020."
-            },
-            {
-                url: "/assets/_LMP7618, small.jpg",
-                title: "",
-                description: "Henna Nerg, 2023.",
-                alt: "Henna Nerg, 2023."
-            },
 
-            {
-                url: "/assets/MathiasBroe_redigert, small.jpg",
-                title: "",
-                description: "Mathias Broe, 2019.",
-                alt: "Mathias Broe, 2019."
-            },
             {
                 url: "/assets/Dominique Nachi, cosmopolitan girl, 2023 small.jpg",
                 title: "",
@@ -504,11 +480,40 @@ export const projects = [
                 alt: "Dominique Nachi, 2023."
             },
             {
+                url: "/assets/_LMP7618, small.jpg",
+                title: "",
+                description: "Henna Nerg, 2023.",
+                alt: "Henna Nerg, 2023."
+            },
+            {
+                url: "/assets/_LMP4031, small.jpg",
+                title: "",
+                description: "Mike Woodbridge, 2022.",
+                alt: "Mike Woodbridge, 2022."
+            },
+
+            {
                 url: "/assets/Sunday, 2022, Mina Paasche, small.jpg",
                 title: "",
                 description: "Frederik Lund, 2022.",
                 alt: "Frederik Lund, 2022"
             },
+            {
+                url: "/assets/Bidrag 3. Resting Bitch Face, Mina Paasche, 2020, small.jpg",
+                title: "",
+                description: "Qianhui Qian, 2020.",
+                alt: "Qianhui Qian, 2020."
+            },
+
+
+            {
+                url: "/assets/MathiasBroe_redigert, small.jpg",
+                title: "",
+                description: "Mathias Broe, 2019.",
+                alt: "Mathias Broe, 2019."
+            },
+
+
         ]
     },
 
