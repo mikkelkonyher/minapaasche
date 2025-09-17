@@ -2,7 +2,8 @@
 import { Link } from 'react-router-dom';
 import { artistInfo, projectCategories, projects } from '../mock';
 import '../styles/artworld.css';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+
 
 const HomePage = () => {
 
