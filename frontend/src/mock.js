@@ -167,10 +167,10 @@ export const projects = [
         medium: "Film installation",
         description: "Listening and Navigation is a series consisting of different intermedia installations exploring human echolocation as both a navigational skill and an alternative way of perceiving the world. Six transducer speakers, connected through multiple amplifiers and channels, transmit vibrations through materials like wood and glass, allowing visitors to experience sound physically as well as aurally. Live field recordings follow Maria Puenchir navigating snowy forests in Trondheim using echolocation, while a drone tracks their movements from above, machine and human simultaneously finding their way through the landscape. The work invites audiences into a world where hearing becomes a form of vision, and where echoes form an existential dialogue with the environment.\n\n" +
             "The works have been shown at Khalil Sakakini Cultural Center, Ramallah, Palestine (2022), Aarhus Artspace, Aarhus, Denmark (2020), KLP, Teknobyen, Trondheim, Norway (2020), Den Frie Utstillings Bygning, Copenhagen, Denmark (2019), Galleri KIT, The Art Academy in Trondheim, Norway (2021, 2019, 2018)."+ "\n\n" +"Collaborators: Maria Puenchir, Mikkel Konyher, Trygve Waagen, Emiel Huijes, Fatuma Abdi, Joel Vide Hynsjö and Ingunn Schumann Mosand.",
-        coverImage: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
+        coverImage: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
         images: [
             {
-                url: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
+                url: "/assets/Dokumentasjon Århus artspace 1, small.jpg",
                 title: "",
                 description: " Aarhus Artspace, Aarhus, Denmark (2020).",
                 alt: " Aarhus Artspace, Aarhus, Denmark (2020)"
@@ -195,7 +195,7 @@ export const projects = [
                 alt:   "Still from “I Was Blind Until I Met You”, 2019"
             },
             {
-                url: "/assets/Håndmalt objekt, REDIGERT til hjemmeside.jpg",
+                url: "/assets/Håndmalt objekt, REDIGERT til hjemmeside.jpg",
                 title: "",
                 description: "Handpainted object: “For those who can see”, 2018. Photo by Mikkel Marhaug.",
                 alt: "Handpainted object: “For those who can see”, 2018. Photo by Mikkel Marhaug."
