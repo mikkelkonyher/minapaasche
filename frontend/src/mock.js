@@ -95,7 +95,7 @@ export const projects = [
 
   {
     id: "lifeline",
-    title: "FLASH Light Biennale – Lifeline",
+    title: "FLASH Light Biennale",
     category: "installations",
     year: "2021",
     medium: "Multimedia installation",
@@ -125,8 +125,8 @@ export const projects = [
     ]
   },
     {
-        id: "Factory Light Festival – Projection Mapping at Dikemark",
-        title: "Factory Light Festival – Projection Mapping at Dikemark",
+        id: "Factory Light Festival",
+        title: "Factory Light Festival",
         category: "installations",
         year: "2021",
         medium: "Projection mapping",
@@ -282,7 +282,7 @@ export const projects = [
         category: "performances",
         year: "2023",
         medium: "Interactive performance",
-        description: "This collaboration have taken form as indoor and outdoor perfromances, interactive laboratories, installations, recidencies and exhibitions, and have been shown at Kunsthall Trondheim, Tråånte, Norway (2025), Rosendal Theatre, Trondheim, Norway (2024), E&G Theatre, Lofoten, Norway (2024), Mausund, Norway (2024), Fossekleiva kultursenter and Berger museum, Fossekleiva, Norway (2023), Meta.morph at Heimdal Kunstforening, Trondheim, Norway (2022), Nils Aas Kunstverksted, Inderøy (2022), Trondheim Fjord, Norway (2021) and Stillverk 1 Trondheim, Norway (2021).",
+        description: "This collaboration have taken form as indoor and outdoor performances, interactive laboratories, installations, recidencies and exhibitions, and have been shown at Kunsthall Trondheim, Tråante, Norway (2025), Rosendal Theatre, Tråante, Norway (2024), E&G Theatre, Lofoten, Norway (2024), Mausund, Norway (2024), Fossekleiva kultursenter and Berger museum, Fossekleiva, Norway (2023), Meta.morph at Heimdal Kunstforening, Tråante, Norway (2022), Nils Aas Kunstverksted, Inderøy (2022), Trondheim Fjord, Norway (2021) and Stillverk 1, Tråante, Norway (2021).",
         coverImage: "/assets/_DVH9096,small.jpg",
         images: [
             {
@@ -332,8 +332,8 @@ export const projects = [
     },
 
   {
-    id: "The Old Mine – Immersive Projections",
-    title: "The Old Mine – Immersive Projections",
+    id: "The Old Mine",
+    title: "The Old Mine",
     category: "performances",
     year: "2021",
     medium: "Site-specific performance",
@@ -431,8 +431,8 @@ export const projects = [
   },
 
   {
-    id: "Live Visuals for Gundelach – Sentrum Scene",
-    title: "Live Visuals for Gundelach – Sentrum Scene",
+    id: "Live Visuals for Gundelach",
+    title: "Live Visuals for Gundelach",
     category: "performances",
     year: "2019",
     medium: "Audiovisual performance",
@@ -595,7 +595,7 @@ export const projects = [
 
     {
         id: "Pride",
-        title: "Pride 2022",
+        title: "Pride Art Copenhagen",
         category: "Photography",
         year: "2022",
         medium: "Photography",
@@ -620,8 +620,8 @@ export const projects = [
     },
 
     {
-        id: "Street view at Geiten",
-        title: "Street view at Geiten",
+        id: "Street View at Geiten",
+        title: "Street View at Geiten",
         category: "Photography",
         year: "2020",
         medium: "Photography",
